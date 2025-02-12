@@ -1,0 +1,40 @@
+{
+  "katkilar": {
+    "renklendiriciler": {
+      "helal_kabul_edilen_katkilar": ["E171", "E172", "E181","E160(a)","E160(b)", "E160(c)", "E160(d)", "E160(e)", "E160(f)", "E163"],
+      "saglik_icin_tehlikeli_katkilar": ["E150", "E151", "E173", "E174", "E175"],
+      "kesin_hayvan_cogunlukla_domuz_kokenli_katkilar": ["E120"],
+      "supheli_katkilar": ["E100", "E101", "E102", "E104", "E107", "E110", "E122", "E123", "E124", "E127", "E128", "E129", "E131", "E132", "E133", "E140", "E141", "E142", "E153", "E154", "E155", "E161", "E162", "E170", "E180"]
+    },
+    "koruyucular": {
+      "helal_kabul_edilen_katkilar": ["E201", "E202", "E203", "E260", "E262", "E263", "E280", "E297","E450(i)"],
+      "saglik_icin_tehlikeli_katkilar": ["E200", "E220", "E221", "E222", "E223", "E224", "E225", "E226", "E227", "E228", "E235", "E236", "E237", "E238", "E239", "E261", "E264", "E281", "E282", "E283", "E290", "E296"],
+      "kesin_hayvan_cogunlukla_domuz_kokenli_katkilar": [],
+      "supheli_katkilar": ["E210", "E211", "E212", "E213", "E214", "E215", "E216", "E217", "E218", "E219", "E230", "E231", "E232", "E233", "E234", "E249", "E250", "E251", "E252", "E270"]
+    },
+    "antioksidanlar_asitler_mineraller_tuzlar": {
+      "helal_kabul_edilen_katkilar": ["E300", "E301", "E303", "E304", "E317", "E318", "E330", "E331","E331(iii)", "E332", "E333", "E334", "E335", "E336", "E337", "E338", "E343", "E350", "E351", "E352", "E353", "E354", "E355", "E357", "E365", "E366", "E367", "E375", "E381"],
+      "saglik_icin_tehlikeli_katkilar": ["E302", "E310", "E319", "E339", "E340", "E363", "E370", "E380", "E385"],
+      "kesin_hayvan_cogunlukla_domuz_kokenli_katkilar": [],
+      "supheli_katkilar": ["E306", "E307", "E308", "E309", "E311", "E312", "E320", "E321", "E322", "E325", "E326", "E327", "E328", "E329", "E341"]
+    },
+    "kivam_articilar_stabilizorler_homojenlestiriciler": {
+      "helal_kabul_edilen_katkilar": ["E503", "E503(i)","E400", "E401", "E402", "E403", "E404", "E405", "E406", "E410", "E412", "E414", "E415", "E417", "E440(b)", "E460", "E464", "E465", "E466", "E469", "E480"],
+      "saglik_icin_tehlikeli_katkilar": ["E463", "E413", "E416", "E420", "E421", "E440(a)", "E450", "E461"],
+      "kesin_hayvan_cogunlukla_domuz_kokenli_katkilar": ["E441"],
+      "supheli_katkilar": ["E442", "E422", "E430", "E431", "E432", "E433", "E434", "E435", "E436", "E470", "E471", "E472", "E473", "E474", "E475","E476", "E477", "E478", "E479(b)", "E407", "E481", "E482", "E483", "E491", "E492", "E493", "E494", "E495"]
+    },
+    "incelticiler": {
+      "helal_kabul_edilen_katkilar": ["E500", "E501", "E509", "E504", "E507", "E511", "E515", "E516", "E518", "E519", "E526", "E529", "E545", "E551", "E552", "E553(a)", "E558", "E559", "E575", "E577", "E578", "E579"],
+      "saglik_icin_tehlikeli_katkilar": ["E508", "E510", "E513", "E514", "E524", "E525", "E527", "E528", "E530", "E535", "E536", "E540", "E541", "E553(b)", "E554", "E576", "E626", "E627", "E629"],
+      "kesin_hayvan_cogunlukla_domuz_kokenli_katkilar": ["E542"],
+      "supheli_katkilar": ["E544", "E556", "E570", "E572", "E585", "E620", "E621", "E623", "E624", "E625", "E631", "E633", "E635", "E636", "E637", "E640"]
+    },
+    "parlaticilar_tatlandiricilar": {
+      "helal_kabul_edilen_katkilar": ["E931", "E932", "E957", "E965", "E967", "E999", "E1200", "E1201", "E1202", "E1400", "E1450"],
+      "saglik_icin_tehlikeli_katkilar": ["E903", "E924", "E925", "E926", "E927", "E928", "E950", "E952", "E954"],
+      "kesin_hayvan_cogunlukla_domuz_kokenli_katkilar": ["E904", "E910", "E920", "E921", "E966", "E1510"],
+      "supheli_katkilar": ["E900", "E901", "E905", "E907", "E913", "E951", "E1100", "E1517", "E1518", "E1520"]
+    }
+  }
+}

@@ -1,0 +1,4603 @@
+{
+  "E_Codes_Details": [
+    {
+      "Code": "E171",
+      "Name": "Titanyum Dioksit",
+      "Alternative_Name": "Titanyum Beyazı",
+      "Function": "Renklendirici",
+      "Description": "Beyaz renk verir. Şekerlemeler ve sakızlarda kullanılır. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+      "Code": "E171",
+      "Name": "Titanium Dioxide",
+      "Alternative_Name": "Titanium White",
+      "Function": "Colorant",
+      "Description": "Provides white color. Used in candies and chewing gums. Banned in some countries."
+    },
+    {
+      "Code": "E172",
+      "Name": "Demir Oksitler ve Hidroksitler",
+      "Alternative_Name": "Demir Boyası",
+      "Function": "Renklendirici",
+      "Description": "Kahverengi, kırmızı ve siyah tonlarında renk verir. Şekerlemelerde kullanılır."
+    },
+    {
+      "Code": "E181",
+      "Name": "Tanen (Tannik Asit)",
+      "Alternative_Name": "Tanik Asit",
+      "Function": "Stabilizatör/Renklendirici",
+      "Description": "Renk sabitleyici olarak kullanılır."
+    },
+    {
+      "Code": "E150",
+      "Name": "Karamel",
+      "Alternative_Name": "Şeker Karameli",
+      "Function": "Renklendirici",
+      "Description": "Kahverengi renk verir. Gazlı içecekler ve soslarda kullanılır."
+    },
+    {
+      "Code": "E151",
+      "Name": "Brillant Siyah BN",
+      "Alternative_Name": "Siyah 1",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Siyah renk verir. Şekerlemelerde ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E172",
+      "Name": "Iron Oxides and Hydroxides",
+      "Alternative_Name": "Iron Dye",
+      "Function": "Colorant",
+      "Description": "Provides shades of brown, red, and black. Used in candies."
+    },
+    {
+      "Code": "E181",
+      "Name": "Tannin",
+      "Alternative_Name": "Tannic Acid",
+      "Function": "Stabilizer/Colorant",
+      "Description": "Used as a color stabilizer."
+    },
+    {
+      "Code": "E150",
+      "Name": "Caramel",
+      "Alternative_Name": "Sugar Caramel",
+      "Function": "Colorant",
+      "Description": "Provides brown color. Used in soft drinks and sauces."
+    },
+    {
+      "Code": "E151",
+      "Name": "Brilliant Black BN",
+      "Alternative_Name": "Black 1",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides black color. Used in candies and beverages."
+    },
+    {
+      "Code": "E173",
+      "Name": "Alüminyum",
+      "Alternative_Name": "-",
+      "Function": "Renklendirici",
+      "Description": "Gümüş renk verir. Dekoratif amaçlı kullanılır."
+    },
+    {
+      "Code": "E174",
+      "Name": "Gümüş",
+      "Alternative_Name": "-",
+      "Function": "Renklendirici",
+      "Description": "Gümüş renk verir. Dekoratif amaçlı şekerlemelerde kullanılır."
+    },
+    {
+      "Code": "E175",
+      "Name": "Altın",
+      "Alternative_Name": "-",
+      "Function": "Renklendirici",
+      "Description": "Altın renk verir. Lüks şekerlemelerde ve pastacılık ürünlerinde kullanılır."
+    },
+    {
+      "Code": "E120",
+      "Name": "Karmin",
+      "Alternative_Name": "Koşineal Böceği Ekstraktı",
+      "Function": "Renklendirici",
+      "Description": "Kırmızı renk verir. Koşineal böceklerinden elde edilir."
+    },
+    {
+      "Code": "E120",
+      "Name": "Koşineal",
+      "Alternative_Name": "Koşineal Böceği Ekstraktı",
+      "Function": "Renklendirici",
+      "Description": "Kırmızı renk verir. Koşineal böceklerinden elde edilir."
+    },
+    {
+      "Code": "E120",
+      "Name": "Karmin",
+      "Alternative_Name": "Doğal Kırmızı 4",
+      "Function": "Renklendirici",
+      "Description": "Kırmızı renk verir. Koşineal böceklerinden elde edilir."
+    },
+    {
+      "Code": "E100",
+      "Name": "Kurkumin",
+      "Alternative_Name": "Zerdeçal Ekstraktı",
+      "Function": "Renklendirici",
+      "Description": "Sarı renk verir. Zerdeçal bitkisinden elde edilir."
+    },
+    {
+      "Code": "E101",
+      "Name": "Riboflavin",
+      "Alternative_Name": "Laktoflavin",
+      "Function": "Renklendirici/Vitamin",
+      "Description": "Sarı renk verir. Aynı zamanda bir vitamindir."
+    },
+    {
+      "Code": "E101",
+      "Name": "B2 vitamini",
+      "Alternative_Name": "Laktoflavin",
+      "Function": "Renklendirici/Vitamin",
+      "Description": "Sarı renk verir. Aynı zamanda bir vitamindir."
+    },
+    {
+      "Code": "E173",
+      "Name": "Aluminium",
+      "Alternative_Name": "-",
+      "Function": "Colorant",
+      "Description": "Provides a silver color. Used for decorative purposes."
+    },
+    {
+      "Code": "E174",
+      "Name": "Silver",
+      "Alternative_Name": "-",
+      "Function": "Colorant",
+      "Description": "Provides a silver color. Used in decorative candies."
+    },
+    {
+      "Code": "E175",
+      "Name": "Gold",
+      "Alternative_Name": "-",
+      "Function": "Colorant",
+      "Description": "Provides a gold color. Used in luxury candies and confectionery products."
+    },
+    {
+      "Code": "E120",
+      "Name": "Carmine",
+      "Alternative_Name": "Cochineal Extract",
+      "Function": "Colorant",
+      "Description": "Provides a red color. Derived from cochineal insects."
+    },
+    {
+      "Code": "E120",
+      "Name": "Cochineal",
+      "Alternative_Name": "Cochineal Extract",
+      "Function": "Colorant",
+      "Description": "Provides a red color. Derived from cochineal insects."
+    },
+    {
+      "Code": "E120",
+      "Name": "Carmine",
+      "Alternative_Name": "Natural Red 4",
+      "Function": "Colorant",
+      "Description": "Provides a red color. Derived from cochineal insects."
+    },
+    {
+      "Code": "E100",
+      "Name": "Curcumin",
+      "Alternative_Name": "Turmeric Extract",
+      "Function": "Colorant",
+      "Description": "Provides a yellow color. Derived from the turmeric plant."
+    },
+    {
+      "Code": "E101",
+      "Name": "Riboflavin",
+      "Alternative_Name": "Lactoflavin",
+      "Function": "Colorant/Vitamin",
+      "Description": "Provides a yellow color. Also functions as a vitamin."
+    },
+    {
+      "Code": "E101",
+      "Name": "Vitamin B2",
+      "Alternative_Name": "Lactoflavin",
+      "Function": "Colorant/Vitamin",
+      "Description": "Provides a yellow color. Also functions as a vitamin."
+    },
+    {
+      "Code": "E102",
+      "Name": "Tartrazin",
+      "Alternative_Name": "FD&C Sarı 5",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Sarı renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E104",
+      "Name": "Kinolin Sarısı",
+      "Alternative_Name": "Sarı 13",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Sarı-yeşil renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E107",
+      "Name": "Sarı 2G",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Sarı renk verir. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+      "Code": "E110",
+      "Name": "Sunset Yellow FCF",
+      "Alternative_Name": "FD&C Sarı 6",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Turuncu renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E110",
+      "Name": "Sunset Yellow FCF",
+      "Alternative_Name": "Portakal Sarısı",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Turuncu renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E122",
+      "Name": "Karmoizin",
+      "Alternative_Name": "Doğal Kırmızı 3",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Şekerlemeler ve reçellerde kullanılır."
+    },
+    {
+      "Code": "E122",
+      "Name": "Karmoizin",
+      "Alternative_Name": "Azorubin",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Şekerlemeler ve reçellerde kullanılır."
+    },
+    {
+      "Code": "E123",
+      "Name": "Amarant",
+      "Alternative_Name": "FD&C Kırmızı 2",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+      "Code": "E102",
+      "Name": "Tartrazine",
+      "Alternative_Name": "FD&C Yellow 5",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a yellow color. Used in candies and beverages."
+    },
+    {
+      "Code": "E104",
+      "Name": "Quinoline Yellow",
+      "Alternative_Name": "Yellow 13",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a yellow-green color. Used in candies and beverages."
+    },
+    {
+      "Code": "E107",
+      "Name": "Yellow 2G",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a yellow color. Banned in some countries."
+    },
+    {
+      "Code": "E110",
+      "Name": "Sunset Yellow FCF",
+      "Alternative_Name": "FD&C Yellow 6",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides an orange color. Used in candies and beverages."
+    },
+    {
+      "Code": "E110",
+      "Name": "Sunset Yellow FCF",
+      "Alternative_Name": "Orange Yellow",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides an orange color. Used in candies and beverages."
+    },
+    {
+      "Code": "E122",
+      "Name": "Carmoisine",
+      "Alternative_Name": "Natural Red 3",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Used in candies and jams."
+    },
+    {
+      "Code": "E122",
+      "Name": "Carmoisine",
+      "Alternative_Name": "Azorubine",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Used in candies and jams."
+    },
+    {
+      "Code": "E123",
+      "Name": "Amaranth",
+      "Alternative_Name": "FD&C Red 2",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Banned in some countries."
+    },
+    {
+      "Code": "E124",
+      "Name": "Ponceau 4R",
+      "Alternative_Name": "Cochineal Red A",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Şekerlemeler ve reçellerde kullanılır."
+    },
+    {
+      "Code": "E124",
+      "Name": "Ponceau 4R",
+      "Alternative_Name": "FD&C Kırmızı 4",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Şekerlemeler ve reçellerde kullanılır."
+    },
+    {
+      "Code": "E127",
+      "Name": "Eritrosin",
+      "Alternative_Name": "FD&C Kırmızı 3",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Pembe-kırmızı renk verir. Şekerlemelerde ve dekoratif ürünlerde kullanılır."
+    },
+    {
+      "Code": "E128",
+      "Name": "Kırmızı 2G",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+      "Code": "E129",
+      "Name": "Allura Red AC",
+      "Alternative_Name": "FD&C Kırmızı 40",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E131",
+      "Name": "Patent Mavisi V",
+      "Alternative_Name": "Mavi 5",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Mavi renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E132",
+      "Name": "Indigotin",
+      "Alternative_Name": "FD&C Mavi 2",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Mavi renk verir. Şekerlemeler ve içeceklerde kullanılır."
+    },
+    {
+      "Code": "E124",
+      "Name": "Ponceau 4R",
+      "Alternative_Name": "Cochineal Red A",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Used in candies and jams."
+    },
+    {
+      "Code": "E124",
+      "Name": "Ponceau 4R",
+      "Alternative_Name": "FD&C Red 4",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Used in candies and jams."
+    },
+    {
+      "Code": "E127",
+      "Name": "Erythrosine",
+      "Alternative_Name": "FD&C Red 3",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a pink-red color. Used in candies and decorative products."
+    },
+    {
+      "Code": "E128",
+      "Name": "Red 2G",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Banned in some countries."
+    },
+    {
+      "Code": "E129",
+      "Name": "Allura Red AC",
+      "Alternative_Name": "FD&C Red 40",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Used in candies and beverages."
+    },
+    {
+      "Code": "E131",
+      "Name": "Patent Blue V",
+      "Alternative_Name": "Blue 5",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a blue color. Used in candies and beverages."
+    },
+    {
+      "Code": "E132",
+      "Name": "Indigotine (Indigo Carmine)",
+      "Alternative_Name": "FD&C Blue 2",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a blue color. Used in candies and beverages."
+    },
+    {
+      "Code": "E132",
+      "Name": "Indigo Carmine",
+      "Alternative_Name": "FD&C Blue 2",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a blue color. Used in candies and beverages."
+    },
+    {
+      "Code": "E133",
+      "Name": "Brilliant Blue FCF",
+      "Alternative_Name": "FD&C Mavi 1",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Mavi renk verir. Şekerlemeler, içecekler ve dondurmalarda kullanılır."
+    },
+    {
+      "Code": "E140",
+      "Name": "Klorofil",
+      "Alternative_Name": "Doğal Yeşil 3",
+      "Function": "Doğal Renklendirici",
+      "Description": "Yeşil renk verir. Bitkilerden elde edilir."
+    },
+    {
+      "Code": "E141",
+      "Name": "Klorofilinler",
+      "Alternative_Name": "Bakır Klorofil Kompleksi",
+      "Function": "Doğal Renklendirici",
+      "Description": "Yeşil renk verir. Klorofilin türevidir, genellikle soslarda ve dondurmalarda kullanılır."
+    },
+    {
+      "Code": "E142",
+      "Name": "Yeşil S",
+      "Alternative_Name": "Asit Yeşil 50",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Yeşil renk verir. Şekerlemeler ve içeceklerde kullanılır. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+      "Code": "E153",
+      "Name": "Bitkisel Karbon",
+      "Alternative_Name": "Aktif Karbon",
+      "Function": "Doğal Renklendirici",
+      "Description": "Siyah renk verir. Kömürden elde edilir. Şekerlemelerde ve dekoratif ürünlerde kullanılır."
+    },
+    {
+      "Code": "E153",
+      "Name": "Karbon Siyahı",
+      "Alternative_Name": "Aktif Karbon",
+      "Function": "Doğal Renklendirici",
+      "Description": "Siyah renk verir. Kömürden elde edilir. Şekerlemelerde ve dekoratif ürünlerde kullanılır."
+    },
+    {
+      "Code": "E154",
+      "Name": "Kahverengi FK",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kahverengi renk verir. Genellikle balık ürünlerinde kullanılır. Bazı ülkelerde yasaklanmıştır."
+    },
+    {
+      "Code": "E155",
+      "Name": "Kahverengi HT",
+      "Alternative_Name": "Çikolata Kahverengisi",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kahverengi renk verir. Şekerlemeler ve dondurmalarda kullanılır."
+    },
+    {
+      "Code": "E160(a)",
+      "Name": "Karoten",
+      "Alternative_Name": "Beta Karoten",
+      "Function": "Doğal Renklendirici",
+      "Description": "Turuncu renk verir. Havuç gibi bitkilerden elde edilir."
+    },
+    {
+      "Code": "E160(b)",
+      "Name": "Annatto",
+      "Alternative_Name": "Doğal Sarı 6",
+      "Function": "Doğal Renklendirici",
+      "Description": "Sarı-turuncu renk verir. Annatto ağacından elde edilir."
+    },
+    {
+      "Code": "E160(b)",
+      "Name": "Biksin",
+      "Alternative_Name": "Doğal Sarı 6",
+      "Function": "Doğal Renklendirici",
+      "Description": "Sarı-turuncu renk verir. Annatto ağacından elde edilir."
+    },
+    {
+      "Code": "E160(b)",
+      "Name": "Norbiksin",
+      "Alternative_Name": "Doğal Sarı 6",
+      "Function": "Doğal Renklendirici",
+      "Description": "Sarı-turuncu renk verir. Annatto ağacından elde edilir."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Paprika Ekstraktı",
+      "Alternative_Name": "Paprika Oleoresin",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Kırmızı biberden elde edilir."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Kapsantin",
+      "Alternative_Name": "Paprika Oleoresin",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Kırmızı biberden elde edilir."
+    },
+    {
+      "Code": "E133",
+      "Name": "Brilliant Blue FCF",
+      "Alternative_Name": "FD&C Blue 1",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a blue color. Used in candies, beverages, and ice creams."
+    },
+    {
+      "Code": "E140",
+      "Name": "Chlorophyll",
+      "Alternative_Name": "Natural Green 3",
+      "Function": "Natural Colorant",
+      "Description": "Provides a green color. Derived from plants."
+    },
+    {
+      "Code": "E141",
+      "Name": "Chlorophyllins",
+      "Alternative_Name": "Copper Chlorophyll Complex",
+      "Function": "Natural Colorant",
+      "Description": "Provides a green color. A derivative of chlorophyll, commonly used in sauces and ice creams."
+    },
+    {
+      "Code": "E142",
+      "Name": "Green S",
+      "Alternative_Name": "Acid Green 50",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a green color. Used in candies and beverages. Banned in some countries."
+    },
+    {
+      "Code": "E153",
+      "Name": "Vegetable Carbon",
+      "Alternative_Name": "Activated Carbon",
+      "Function": "Natural Colorant",
+      "Description": "Provides a black color. Derived from charcoal. Used in candies and decorative products."
+    },
+    {
+      "Code": "E153",
+      "Name": "Carbon Black",
+      "Alternative_Name": "Activated Carbon",
+      "Function": "Natural Colorant",
+      "Description": "Provides a black color. Derived from charcoal. Used in candies and decorative products."
+    },
+    {
+      "Code": "E154",
+      "Name": "Brown FK",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a brown color. Commonly used in fish products. Banned in some countries."
+    },
+    {
+      "Code": "E155",
+      "Name": "Brown HT",
+      "Alternative_Name": "Chocolate Brown",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a brown color. Used in candies and ice creams."
+    },
+    {
+      "Code": "E160(a)",
+      "Name": "Carotenes",
+      "Alternative_Name": "Beta-Carotene",
+      "Function": "Natural Colorant",
+      "Description": "Provides an orange color. Derived from plants like carrots."
+    },
+    {
+      "Code": "E160(b)",
+      "Name": "Annatto",
+      "Alternative_Name": "Natural Yellow 6",
+      "Function": "Natural Colorant",
+      "Description": "Provides a yellow-orange color. Derived from the annatto tree."
+    },
+    {
+      "Code": "E160(b)",
+      "Name": "Bixin",
+      "Alternative_Name": "Natural Yellow 6",
+      "Function": "Natural Colorant",
+      "Description": "Provides a yellow-orange color. Derived from the annatto tree."
+    },
+    {
+      "Code": "E160(b)",
+      "Name": "Norbixin",
+      "Alternative_Name": "Natural Yellow 6",
+      "Function": "Natural Colorant",
+      "Description": "Provides a yellow-orange color. Derived from the annatto tree."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Paprika Extract",
+      "Alternative_Name": "Paprika Oleoresin",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from red peppers."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Capsanthin",
+      "Alternative_Name": "Paprika Oleoresin",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from red peppers."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Kapsorubin",
+      "Alternative_Name": "Paprika Oleoresin",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Kırmızı biberden elde edilir."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Kapsorubin",
+      "Alternative_Name": "Oleoresin",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Kırmızı biberden elde edilir."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Kapsorubin",
+      "Alternative_Name": "Paprika",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Kırmızı biberden elde edilir."
+    },
+    {
+      "Code": "E160(d)",
+      "Name": "Likopen",
+      "Alternative_Name": "Domates Pigmenti",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Domatesten elde edilir."
+    },
+    {
+      "Code": "E160(e)",
+      "Name": "Beta Apo 8",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Turuncu renk verir."
+    },
+    {
+      "Code": "E160(e)",
+      "Name": "Karotenal",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Turuncu renk verir."
+    },
+    {
+      "Code": "E160(f)",
+      "Name": "Etil Ester Beta Apo 8",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Turuncu renk verir."
+    },
+    {
+      "Code": "E160(f)",
+      "Name": "Karotenik Asit",
+      "Alternative_Name": "-",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Turuncu renk verir."
+    },
+    {
+      "Code": "E161",
+      "Name": "Ksantofiller",
+      "Alternative_Name": "Lutein",
+      "Function": "Doğal Renklendirici",
+      "Description": "Sarı renk verir. Bitkilerden ve yumurta sarısından elde edilir."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Capsorubin",
+      "Alternative_Name": "Paprika Oleoresin",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from red peppers."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Capsorubin",
+      "Alternative_Name": "Oleoresin",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from red peppers."
+    },
+    {
+      "Code": "E160(c)",
+      "Name": "Capsorubin",
+      "Alternative_Name": "Paprika",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from red peppers."
+    },
+    {
+      "Code": "E160(d)",
+      "Name": "Lycopene",
+      "Alternative_Name": "Tomato Pigment",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from tomatoes."
+    },
+    {
+      "Code": "E160(e)",
+      "Name": "Beta Apo 8",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides an orange color."
+    },
+    {
+      "Code": "E160(e)",
+      "Name": "Carotenal",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides an orange color."
+    },
+    {
+      "Code": "E160(f)",
+      "Name": "Ethyl Ester Beta Apo 8",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides an orange color."
+    },
+    {
+      "Code": "E160(f)",
+      "Name": "Carotenic Acid",
+      "Alternative_Name": "-",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides an orange color."
+    },
+    {
+      "Code": "E161",
+      "Name": "Xanthophylls",
+      "Alternative_Name": "Lutein",
+      "Function": "Natural Colorant",
+      "Description": "Provides a yellow color. Derived from plants and egg yolks."
+    },
+    {
+      "Code": "E162",
+      "Name": "Pancar Kırmızısı",
+      "Alternative_Name": "Betanin",
+      "Function": "Doğal Renklendirici",
+      "Description": "Kırmızı renk verir. Pancar kökünden elde edilir."
+    },
+    {
+      "Code": "E163",
+      "Name": "Antosiyaninler",
+      "Alternative_Name": "Üzüm Pigmenti",
+      "Function": "Doğal Renklendirici",
+      "Description": "Mor-mavi renk verir. Meyve ve sebzelerden elde edilir."
+    },
+    {
+      "Code": "E170",
+      "Name": "Kalsiyum Karbonat",
+      "Alternative_Name": "Kireçtaşı",
+      "Function": "Dolgu Maddesi/Renklendirici",
+      "Description": "Beyazlatıcı olarak kullanılır. Kireçtaşından elde edilir."
+    },
+    {
+      "Code": "E170",
+      "Name": "Kalsiyum Karbonat",
+      "Alternative_Name": "Tebeşir",
+      "Function": "Dolgu Maddesi/Renklendirici",
+      "Description": "Beyazlatıcı olarak kullanılır. Kireçtaşından elde edilir."
+    },
+    {
+      "Code": "E180",
+      "Name": "Litol Rubin BK",
+      "Alternative_Name": "Pigment Rubin 7B",
+      "Function": "Sentetik Renklendirici",
+      "Description": "Kırmızı renk verir. Peynir kaplamalarında kullanılır."
+    },
+    {
+      "Code": "E201",
+      "Name": "Sodyum Sorbat",
+      "Alternative_Name": "-",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler."
+    },
+    {
+      "Code": "E202",
+      "Name": "Potasyum Sorbat",
+      "Alternative_Name": "-",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler."
+    },
+    {
+      "Code": "E203",
+      "Name": "Kalsiyum Sorbat",
+      "Alternative_Name": "-",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler."
+    },
+    {
+      "Code": "E260",
+      "Name": "Asetik Asit",
+      "Alternative_Name": "Sirke Asidi",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Gıdalarda asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E262",
+      "Name": "Sodyum Asetat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E262",
+      "Name": "Sodyum Asetat",
+      "Alternative_Name": "Asetik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E263",
+      "Name": "Kalsiyum Asetat",
+      "Alternative_Name": "Asetik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E263",
+      "Name": "Kalsiyum Asetat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E280",
+      "Name": "Propiyonik Asit",
+      "Alternative_Name": "Propanoik Asit",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler. Genellikle ekmek ve unlu mamullerde kullanılır."
+    },
+    {
+      "Code": "E297",
+      "Name": "Fumarik Asit",
+      "Alternative_Name": "-",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve aroma artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E200",
+      "Name": "Sorbik Asit",
+      "Alternative_Name": "-",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler. Genellikle peynir ve şekerlemelerde kullanılır."
+    },
+    {
+      "Code": "E220",
+      "Name": "Kükürt Dioksit",
+      "Alternative_Name": "Sülfür Dioksit",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda mikrobiyal büyümeyi önler. Kurutulmuş meyveler ve şaraplarda kullanılır."
+    },
+    {
+      "Code": "E221",
+      "Name": "Sodyum Sülfit",
+      "Alternative_Name": "Sodyum Sülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler. Bazı kişilerde alerjik reaksiyonlara neden olabilir."
+    },
+    {
+      "Code": "E222",
+      "Name": "Sodyum Bisülfit",
+      "Alternative_Name": "Sodyum Hidrojen Sülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler. Genellikle içeceklerde ve konserve ürünlerde kullanılır."
+    },
+    {
+      "Code": "E162",
+      "Name": "Beetroot Red",
+      "Alternative_Name": "Betanin",
+      "Function": "Natural Colorant",
+      "Description": "Provides a red color. Derived from beetroot."
+    },
+    {
+      "Code": "E163",
+      "Name": "Anthocyanins",
+      "Alternative_Name": "Grape Pigment",
+      "Function": "Natural Colorant",
+      "Description": "Provides a purple-blue color. Derived from fruits and vegetables."
+    },
+    {
+      "Code": "E170",
+      "Name": "Calcium Carbonate",
+      "Alternative_Name": "Limestone",
+      "Function": "Filler/Colorant",
+      "Description": "Used as a whitening agent. Derived from limestone."
+    },
+    {
+      "Code": "E170",
+      "Name": "Calcium Carbonate",
+      "Alternative_Name": "Chalk",
+      "Function": "Filler/Colorant",
+      "Description": "Used as a whitening agent. Derived from limestone."
+    },
+    {
+      "Code": "E180",
+      "Name": "Lithol Rubine BK",
+      "Alternative_Name": "Pigment Rubine 7B",
+      "Function": "Synthetic Colorant",
+      "Description": "Provides a red color. Used in cheese coatings."
+    },
+    {
+      "Code": "E201",
+      "Name": "Sodium Sorbate",
+      "Alternative_Name": "-",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth."
+    },
+    {
+      "Code": "E202",
+      "Name": "Potassium Sorbate",
+      "Alternative_Name": "-",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth."
+    },
+    {
+      "Code": "E203",
+      "Name": "Calcium Sorbate",
+      "Alternative_Name": "-",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth."
+    },
+    {
+      "Code": "E260",
+      "Name": "Acetic Acid",
+      "Alternative_Name": "Vinegar Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative in foods."
+    },
+    {
+      "Code": "E262",
+      "Name": "Sodium Acetate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative."
+    },
+    {
+      "Code": "E262",
+      "Name": "Sodium Acetate",
+      "Alternative_Name": "Acetic Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative."
+    },
+    {
+      "Code": "E263",
+      "Name": "Calcium Acetate",
+      "Alternative_Name": "Acetic Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative."
+    },
+    {
+      "Code": "E263",
+      "Name": "Calcium Acetate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative."
+    },
+    {
+      "Code": "E280",
+      "Name": "Propionic Acid",
+      "Alternative_Name": "Propanoic Acid",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth. Commonly used in bread and baked goods."
+    },
+    {
+      "Code": "E297",
+      "Name": "Fumaric Acid",
+      "Alternative_Name": "-",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and flavor enhancer."
+    },
+    {
+      "Code": "E200",
+      "Name": "Sorbic Acid",
+      "Alternative_Name": "-",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth. Commonly used in cheese and candies."
+    },
+    {
+      "Code": "E220",
+      "Name": "Sulfur Dioxide",
+      "Alternative_Name": "Sulphur Dioxide",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents microbial growth in foods. Used in dried fruits and wines."
+    },
+    {
+      "Code": "E221",
+      "Name": "Sodium Sulfite",
+      "Alternative_Name": "Sodium Sulphur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods. May cause allergic reactions in some individuals."
+    },
+    {
+      "Code": "E222",
+      "Name": "Sodium Bisulfite",
+      "Alternative_Name": "Sodium Hydrogen Sulphur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods. Commonly used in beverages and canned products."
+    },
+    {
+      "Code": "E223",
+      "Name": "Sodyum Metabisülfit",
+      "Alternative_Name": "Sodyum Disülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler. Şarap ve meyve sularında yaygın olarak kullanılır."
+    },
+    {
+      "Code": "E224",
+      "Name": "Potasyum Metabisülfit",
+      "Alternative_Name": "Potasyum Disülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler. Şarap ve bira üretiminde kullanılır."
+    },
+    {
+      "Code": "E225",
+      "Name": "Potasyum Sülfit",
+      "Alternative_Name": "Potasyum Sülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler. Genellikle içeceklerde kullanılır."
+    },
+    {
+      "Code": "E226",
+      "Name": "Kalsiyum Sülfit",
+      "Alternative_Name": "Kalsiyum Sülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler."
+    },
+    {
+      "Code": "E227",
+      "Name": "Kalsiyum Bisülfit",
+      "Alternative_Name": "Kalsiyum Hidrojen Sülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler."
+    },
+    {
+      "Code": "E228",
+      "Name": "Potasyum Bisülfit",
+      "Alternative_Name": "Potasyum Hidrojen Sülfür",
+      "Function": "Koruyucu/Antioksidan",
+      "Description": "Gıdalarda bozulmayı önler."
+    },
+    {
+      "Code": "E235",
+      "Name": "Natamisin",
+      "Alternative_Name": "Pimarisin",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler. Peynir ve şarküteri ürünlerinde kullanılır."
+    },
+    {
+      "Code": "E236",
+      "Name": "Formik Asit",
+      "Alternative_Name": "Metanoik Asit",
+      "Function": "Koruyucu",
+      "Description": "Gıdalarda mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E237",
+      "Name": "Sodyum Format",
+      "Alternative_Name": "Sodyum Metanoat",
+      "Function": "Koruyucu",
+      "Description": "Gıdalarda mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E238",
+      "Name": "Kalsiyum Format",
+      "Alternative_Name": "Kalsiyum Metanoat",
+      "Function": "Koruyucu",
+      "Description": "Gıdalarda mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E239",
+      "Name": "Heksametilentetramin",
+      "Alternative_Name": "Metenamin",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler. Genellikle peynirlerde kullanılır."
+    },
+    {
+      "Code": "E239",
+      "Name": "Heksametilentetramin",
+      "Alternative_Name": "Ürotropin",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler. Genellikle peynirlerde kullanılır."
+    },
+    {
+      "Code": "E261",
+      "Name": "Sodyum Asetat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E261",
+      "Name": "Sodyum Asetat",
+      "Alternative_Name": "Asetik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E264",
+      "Name": "Amonyum Asetat",
+      "Alternative_Name": "Amonyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E281",
+      "Name": "Sodyum Propiyonat",
+      "Alternative_Name": "Sodyum Propanoat",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler. Genellikle ekmek ve unlu mamullerde kullanılır."
+    },
+    {
+      "Code": "E282",
+      "Name": "Kalsiyum Propiyonat",
+      "Alternative_Name": "Kalsiyum Propanoat",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler. Genellikle ekmek ve unlu mamullerde kullanılır."
+    },
+    {
+      "Code": "E223",
+      "Name": "Sodium Metabisulfite",
+      "Alternative_Name": "Sodium Disulfur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods. Commonly used in wine and fruit juices."
+    },
+    {
+      "Code": "E224",
+      "Name": "Potassium Metabisulfite",
+      "Alternative_Name": "Potassium Disulfur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods. Used in wine and beer production."
+    },
+    {
+      "Code": "E225",
+      "Name": "Potassium Sulfite",
+      "Alternative_Name": "Potassium Sulfur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods. Commonly used in beverages."
+    },
+    {
+      "Code": "E226",
+      "Name": "Calcium Sulfite",
+      "Alternative_Name": "Calcium Sulfur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods."
+    },
+    {
+      "Code": "E227",
+      "Name": "Calcium Bisulfite",
+      "Alternative_Name": "Calcium Hydrogen Sulfur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods."
+    },
+    {
+      "Code": "E228",
+      "Name": "Potassium Bisulfite",
+      "Alternative_Name": "Potassium Hydrogen Sulfur",
+      "Function": "Preservative/Antioxidant",
+      "Description": "Prevents spoilage in foods."
+    },
+    {
+      "Code": "E235",
+      "Name": "Natamycin",
+      "Alternative_Name": "Pimaricin",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth. Used in cheese and cured meat products."
+    },
+    {
+      "Code": "E236",
+      "Name": "Formic Acid",
+      "Alternative_Name": "Methanoic Acid",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in foods."
+    },
+    {
+      "Code": "E237",
+      "Name": "Sodium Formate",
+      "Alternative_Name": "Sodium Methanoate",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in foods."
+    },
+    {
+      "Code": "E238",
+      "Name": "Calcium Formate",
+      "Alternative_Name": "Calcium Methanoate",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in foods."
+    },
+    {
+      "Code": "E239",
+      "Name": "Hexamethylenetetramine",
+      "Alternative_Name": "Methenamine",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth. Commonly used in cheeses."
+    },
+    {
+      "Code": "E239",
+      "Name": "Hexamethylenetetramine",
+      "Alternative_Name": "Urotropine",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth. Commonly used in cheeses."
+    },
+    {
+      "Code": "E261",
+      "Name": "Sodium Acetate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative."
+    },
+    {
+      "Code": "E261",
+      "Name": "Sodium Acetate",
+      "Alternative_Name": "Acetic Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative."
+    },
+    {
+      "Code": "E264",
+      "Name": "Ammonium Acetate",
+      "Alternative_Name": "Ammonium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator."
+    },
+    {
+      "Code": "E281",
+      "Name": "Sodium Propionate",
+      "Alternative_Name": "Sodium Propanoate",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth. Commonly used in bread and baked goods."
+    },
+    {
+      "Code": "E282",
+      "Name": "Calcium Propionate",
+      "Alternative_Name": "Calcium Propanoate",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth. Commonly used in bread and baked goods."
+    },
+    {
+      "Code": "E283",
+      "Name": "Potasyum Propiyonat",
+      "Alternative_Name": "Potasyum Propanoat",
+      "Function": "Koruyucu",
+      "Description": "Küf ve maya oluşumunu önler."
+    },
+    {
+      "Code": "E290",
+      "Name": "Karbon Dioksit",
+      "Alternative_Name": "Karbondioksit",
+      "Function": "Koruyucu/Gaz",
+      "Description": "Gazlı içeceklerde ve paketleme işlemlerinde kullanılır."
+    },
+    {
+      "Code": "E296",
+      "Name": "Malik Asit",
+      "Alternative_Name": "Elma Asidi",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve aroma artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E210",
+      "Name": "Benzoik Asit",
+      "Alternative_Name": "Benzenkarboksilik Asit",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler. Genellikle içeceklerde ve reçellerde kullanılır."
+    },
+    {
+      "Code": "E211",
+      "Name": "Sodyum Benzoat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler. Genellikle içeceklerde ve konserve ürünlerde kullanılır."
+    },
+    {
+      "Code": "E211",
+      "Name": "Sodyum Benzoat",
+      "Alternative_Name": "Benzoik Asit Tuzu",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler. Genellikle içeceklerde ve konserve ürünlerde kullanılır."
+    },
+    {
+      "Code": "E212",
+      "Name": "Potasyum Benzoat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler."
+    },
+    {
+      "Code": "E212",
+      "Name": "Potasyum Benzoat",
+      "Alternative_Name": "Benzoik Asit Tuzu",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler."
+    },
+    {
+      "Code": "E213",
+      "Name": "Kalsiyum Benzoat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler."
+    },
+    {
+      "Code": "E213",
+      "Name": "Kalsiyum Benzoat",
+      "Alternative_Name": "Benzoik Asit Tuzu",
+      "Function": "Koruyucu",
+      "Description": "Küf ve bakteri oluşumunu önler."
+    },
+    {
+      "Code": "E214",
+      "Name": "Etil Paraben",
+      "Alternative_Name": "Etil Ester",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E215",
+      "Name": "Sodyum Etil Paraben",
+      "Alternative_Name": "Sodyum Etil Ester",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E216",
+      "Name": "Propil Paraben",
+      "Alternative_Name": "Propil Ester",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E217",
+      "Name": "Sodyum Propil Paraben",
+      "Alternative_Name": "Sodyum Propil Ester",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E218",
+      "Name": "Metil Paraben",
+      "Alternative_Name": "Metil Ester",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E219",
+      "Name": "Sodyum Metil Paraben",
+      "Alternative_Name": "Sodyum Metil Ester",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E230",
+      "Name": "Bifenil",
+      "Alternative_Name": "Difenil",
+      "Function": "Koruyucu",
+      "Description": "Yüzey koruyucu olarak kullanılır. Genellikle narenciye kabuklarında bulunur."
+    },
+    {
+      "Code": "E231",
+      "Name": "2-Hidroksibifenil",
+      "Alternative_Name": "Orto Hidroksibifenil",
+      "Function": "Koruyucu",
+      "Description": "Yüzey koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E232",
+      "Name": "Sodyum 2-Hidroksibifenil",
+      "Alternative_Name": "Sodyum Orto Hidroksibifenil",
+      "Function": "Koruyucu",
+      "Description": "Yüzey koruyucu olarak kullanılır."
+    },
+    {
+      "Code": "E233",
+      "Name": "Tiabendazol",
+      "Alternative_Name": "-",
+      "Function": "Koruyucu",
+      "Description": "Yüzey koruyucu olarak kullanılır. Genellikle meyve kabuklarında bulunur."
+    },
+    {
+      "Code": "E234",
+      "Name": "Nisin",
+      "Alternative_Name": "-",
+      "Function": "Koruyucu",
+      "Description": "Mikrobiyal büyümeyi önler. Peynir ve süt ürünlerinde kullanılır."
+    },
+    {
+      "Code": "E249",
+      "Name": "Potasyum Nitrit",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Et ürünlerinde mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E249",
+      "Name": "Potasyum Nitrit",
+      "Alternative_Name": "Nitrit Tuzu",
+      "Function": "Koruyucu",
+      "Description": "Et ürünlerinde mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E250",
+      "Name": "Sodyum Nitrit",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Et ürünlerinde mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E251",
+      "Name": "Sodyum Nitrat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Et ürünlerinde mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E251",
+      "Name": "Sodyum Nitrat",
+      "Alternative_Name": "Nitrat Tuzu",
+      "Function": "Koruyucu",
+      "Description": "Et ürünlerinde mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E252",
+      "Name": "Potasyum Nitrat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Koruyucu",
+      "Description": "Et ürünlerinde mikrobiyal büyümeyi önler."
+    },
+    {
+      "Code": "E270",
+      "Name": "Laktik Asit",
+      "Alternative_Name": "Süt Asidi",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve koruyucu. Fermente süt ürünlerinde doğal olarak bulunur."
+    },
+    {
+      "Code": "E300",
+      "Name": "Askorbik Asit",
+      "Alternative_Name": "C Vitamini",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler. Aynı zamanda bir vitamindir."
+    },
+    {
+      "Code": "E283",
+      "Name": "Potassium Propionate",
+      "Alternative_Name": "Potassium Propanoate",
+      "Function": "Preservative",
+      "Description": "Prevents mold and yeast growth."
+    },
+    {
+      "Code": "E290",
+      "Name": "Carbon Dioxide",
+      "Alternative_Name": "CO2",
+      "Function": "Preservative/Gas",
+      "Description": "Used in carbonated beverages and packaging processes."
+    },
+    {
+      "Code": "E296",
+      "Name": "Malic Acid",
+      "Alternative_Name": "Apple Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and flavor enhancer."
+    },
+    {
+      "Code": "E210",
+      "Name": "Benzoic Acid",
+      "Alternative_Name": "Benzene Carboxylic Acid",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth. Commonly used in beverages and jams."
+    },
+    {
+      "Code": "E211",
+      "Name": "Sodium Benzoate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth. Commonly used in beverages and canned products."
+    },
+    {
+      "Code": "E211",
+      "Name": "Sodium Benzoate",
+      "Alternative_Name": "Benzoic Acid Salt",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth. Commonly used in beverages and canned products."
+    },
+    {
+      "Code": "E212",
+      "Name": "Potassium Benzoate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth."
+    },
+    {
+      "Code": "E212",
+      "Name": "Potassium Benzoate",
+      "Alternative_Name": "Benzoic Acid Salt",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth."
+    },
+    {
+      "Code": "E213",
+      "Name": "Calcium Benzoate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth."
+    },
+    {
+      "Code": "E213",
+      "Name": "Calcium Benzoate",
+      "Alternative_Name": "Benzoic Acid Salt",
+      "Function": "Preservative",
+      "Description": "Prevents mold and bacterial growth."
+    },
+    {
+      "Code": "E214",
+      "Name": "Ethyl Paraben",
+      "Alternative_Name": "Ethyl Ester",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth."
+    },
+    {
+      "Code": "E215",
+      "Name": "Sodium Ethyl Paraben",
+      "Alternative_Name": "Sodium Ethyl Ester",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth."
+    },
+    {
+      "Code": "E216",
+      "Name": "Propyl Paraben",
+      "Alternative_Name": "Propyl Ester",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth."
+    },
+    {
+      "Code": "E217",
+      "Name": "Sodium Propyl Paraben",
+      "Alternative_Name": "Sodium Propyl Ester",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth."
+    },
+    {
+      "Code": "E218",
+      "Name": "Methyl Paraben",
+      "Alternative_Name": "Methyl Ester",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth."
+    },
+    {
+      "Code": "E219",
+      "Name": "Sodium Methyl Paraben",
+      "Alternative_Name": "Sodium Methyl Ester",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth."
+    },
+    {
+      "Code": "E230",
+      "Name": "Biphenyl",
+      "Alternative_Name": "Diphenyl",
+      "Function": "Preservative",
+      "Description": "Used as a surface preservative. Commonly found on citrus peels."
+    },
+    {
+      "Code": "E231",
+      "Name": "2-Hydroxybiphenyl",
+      "Alternative_Name": "Ortho Hydroxybiphenyl",
+      "Function": "Preservative",
+      "Description": "Used as a surface preservative."
+    },
+    {
+      "Code": "E232",
+      "Name": "Sodium 2-Hydroxybiphenyl",
+      "Alternative_Name": "Sodium Ortho Hydroxybiphenyl",
+      "Function": "Preservative",
+      "Description": "Used as a surface preservative."
+    },
+    {
+      "Code": "E233",
+      "Name": "Thiabendazole",
+      "Alternative_Name": "-",
+      "Function": "Preservative",
+      "Description": "Used as a surface preservative. Commonly found on fruit peels."
+    },
+    {
+      "Code": "E234",
+      "Name": "Nisin",
+      "Alternative_Name": "-",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth. Used in cheese and dairy products."
+    },
+    {
+      "Code": "E249",
+      "Name": "Potassium Nitrite",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in meat products."
+    },
+    {
+      "Code": "E249",
+      "Name": "Potassium Nitrite",
+      "Alternative_Name": "Nitrite Salt",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in meat products."
+    },
+    {
+      "Code": "E250",
+      "Name": "Sodium Nitrite",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in meat products."
+    },
+    {
+      "Code": "E251",
+      "Name": "Sodium Nitrate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in meat products."
+    },
+    {
+      "Code": "E251",
+      "Name": "Sodium Nitrate",
+      "Alternative_Name": "Nitrate Salt",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in meat products."
+    },
+    {
+      "Code": "E252",
+      "Name": "Potassium Nitrate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Preservative",
+      "Description": "Prevents microbial growth in meat products."
+    },
+    {
+      "Code": "E270",
+      "Name": "Lactic Acid",
+      "Alternative_Name": "Milk Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and preservative. Naturally found in fermented dairy products."
+    },
+    {
+      "Code": "E300",
+      "Name": "Ascorbic Acid",
+      "Alternative_Name": "Vitamin C",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods. Also functions as a vitamin."
+    },
+    {
+      "Code": "E301",
+      "Name": "Sodyum Askorbik",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E301",
+      "Name": "Sodyum Askorbik",
+      "Alternative_Name": "Askorbik Asit Tuzu",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E302",
+      "Name": "Kalsiyum Askorbik",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E303",
+      "Name": "Potasyum Askorbik",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E304",
+      "Name": "askorbil palmitat",
+      "Alternative_Name": "-",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E306",
+      "Name": "Tokoferoller",
+      "Alternative_Name": "E Vitamini",
+      "Function": "Antioksidan",
+      "Description": "Doğal bir antioksidandır. Bitkisel yağlardan elde edilir."
+    },
+    {
+      "Code": "E307",
+      "Name": "Alfa Tokoferol",
+      "Alternative_Name": "-",
+      "Function": "Antioksidan",
+      "Description": "Doğal bir antioksidandır. E vitamini formudur."
+    },
+    {
+      "Code": "E310",
+      "Name": "Propil Gallat",
+      "Alternative_Name": "Propil Ester",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler."
+    },
+    {
+      "Code": "E310",
+      "Name": "Propil Gallat",
+      "Alternative_Name": "Gallik Asit",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler."
+    },
+    {
+      "Code": "E317",
+      "Name": "Eritorbik Asit",
+      "Alternative_Name": "İzaskorbik Asit",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E318",
+      "Name": "Sodyum Eritorbik",
+      "Alternative_Name": "Sodyum İzaskorbat",
+      "Function": "Antioksidan",
+      "Description": "Gıdalarda oksidasyonu önler."
+    },
+    {
+      "Code": "E319",
+      "Name": "Tersiyer Butil Hidrokinon",
+      "Alternative_Name": "TBHQ",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler."
+    },
+    {
+      "Code": "E330",
+      "Name": "Sitrik Asit",
+      "Alternative_Name": "Limon Asidi",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve antioksidan. Limon ve narenciyelerden elde edilir."
+    },
+    {
+      "Code": "E331",
+      "Name": "Sodyum Sitrat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E331(iii)",
+      "Name": "Trisodyum Sitrat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E331",
+      "Name": "Sodyum Sitrat",
+      "Alternative_Name": "Sitrik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E332",
+      "Name": "Potasyum Sitrat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E333",
+      "Name": "Kalsiyum Sitrat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E334",
+      "Name": "Tartarik Asit",
+      "Alternative_Name": "Üzüm Asidi",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici. Şarap ve üzüm ürünlerinde doğal olarak bulunur."
+    },
+    {
+      "Code": "E335",
+      "Name": "Sodyum Tartarat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E301",
+      "Name": "Sodium Ascorbate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E301",
+      "Name": "Sodium Ascorbate",
+      "Alternative_Name": "Ascorbic Acid Salt",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E302",
+      "Name": "Calcium Ascorbate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E303",
+      "Name": "Potassium Ascorbate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E304",
+      "Name": "Ascorbic Acid Esters",
+      "Alternative_Name": "Ascorbic Acid",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E304",
+      "Name": "Ascorbic Acid Esters",
+      "Alternative_Name": "Fatty Acid Esters",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E306",
+      "Name": "Tocopherols",
+      "Alternative_Name": "Vitamin E",
+      "Function": "Antioxidant",
+      "Description": "A natural antioxidant. Derived from vegetable oils."
+    },
+    {
+      "Code": "E307",
+      "Name": "Alpha Tocopherol",
+      "Alternative_Name": "-",
+      "Function": "Antioxidant",
+      "Description": "A natural antioxidant. A form of Vitamin E."
+    },
+    {
+      "Code": "E310",
+      "Name": "Propyl Gallate",
+      "Alternative_Name": "Propyl Ester",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats."
+    },
+    {
+      "Code": "E310",
+      "Name": "Propyl Gallate",
+      "Alternative_Name": "Gallic Acid",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats."
+    },
+    {
+      "Code": "E317",
+      "Name": "Erythorbic Acid",
+      "Alternative_Name": "Isoascorbic Acid",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E318",
+      "Name": "Sodium Erythorbate",
+      "Alternative_Name": "Sodium Isoascorbate",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation in foods."
+    },
+    {
+      "Code": "E319",
+      "Name": "Tertiary Butylhydroquinone",
+      "Alternative_Name": "TBHQ",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats."
+    },
+    {
+      "Code": "E330",
+      "Name": "Citric Acid",
+      "Alternative_Name": "Lemon Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and antioxidant. Derived from lemons and citrus fruits."
+    },
+    {
+      "Code": "E331",
+      "Name": "Sodium Citrate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E331",
+      "Name": "Sodium Citrate",
+      "Alternative_Name": "Citric Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E332",
+      "Name": "Potassium Citrate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E333",
+      "Name": "Calcium Citrate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E334",
+      "Name": "Tartaric Acid",
+      "Alternative_Name": "Grape Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator. Naturally found in wine and grape products."
+    },
+    {
+      "Code": "E335",
+      "Name": "Sodium Tartrate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E335",
+      "Name": "Sodyum Tartarat",
+      "Alternative_Name": "Tartarik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E336",
+      "Name": "Potasyum Tartarat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E337",
+      "Name": "Sodyum Potasyum Tartarat",
+      "Alternative_Name": "Rochelle Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E338",
+      "Name": "Fosforik Asit",
+      "Alternative_Name": "Ortofosforik Asit",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici. Genellikle gazlı içeceklerde kullanılır."
+    },
+    {
+      "Code": "E343",
+      "Name": "Magnezyum Fosfat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve asitlik düzenleyici."
+    },
+    {
+      "Code": "E350",
+      "Name": "Sodyum Malat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E350",
+      "Name": "Sodyum Malat",
+      "Alternative_Name": "Malik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E351",
+      "Name": "Potasyum Malat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E352",
+      "Name": "Kalsiyum Malat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E353",
+      "Name": "Metatartarik Asit",
+      "Alternative_Name": "-",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici. Genellikle şaraplarda kullanılır."
+    },
+    {
+      "Code": "E354",
+      "Name": "Kalsiyum Tartarat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E354",
+      "Name": "Kalsiyum Tartarat",
+      "Alternative_Name": "Tartarik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E355",
+      "Name": "Adipik Asit",
+      "Alternative_Name": "-",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve aroma artırıcı."
+    },
+    {
+      "Code": "E357",
+      "Name": "Potasyum Adipat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E357",
+      "Name": "Potasyum Adipat",
+      "Alternative_Name": "Adipik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E365",
+      "Name": "Sodyum Laktat",
+      "Alternative_Name": "Laktik Asit Tuzu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E365",
+      "Name": "Sodyum Laktat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E366",
+      "Name": "Potasyum Laktat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E367",
+      "Name": "Kalsiyum Laktat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E375",
+      "Name": "Niasin",
+      "Alternative_Name": "Nikotinik Asit",
+      "Function": "Vitamin",
+      "Description": "Gıdalarda vitamin takviyesi olarak kullanılır."
+    },
+    {
+      "Code": "E375",
+      "Name": "B3 Vitamini",
+      "Alternative_Name": "Nikotinik Asit",
+      "Function": "Vitamin",
+      "Description": "Gıdalarda vitamin takviyesi olarak kullanılır."
+    },
+    {
+      "Code": "E381",
+      "Name": "Ammonyum Ferrik Sitrat",
+      "Alternative_Name": "Amonyum Demir Sitrat",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve demir kaynağı olarak kullanılır."
+    },
+    {
+      "Code": "E363",
+      "Name": "Süksinik Asit",
+      "Alternative_Name": "Amber Asidi",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve aroma artırıcı."
+    },
+    {
+      "Code": "E370",
+      "Name": "1,4 Heptonolakton",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve aroma artırıcı."
+    },
+    {
+      "Code": "E380",
+      "Name": "Triamonyum Sitrat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve asitlik düzenleyici."
+    },
+    {
+      "Code": "E385",
+      "Name": "Kalsiyum Disodyum EDTA",
+      "Alternative_Name": "EDTA",
+      "Function": "Stabilizatör",
+      "Description": "Metal iyonlarını bağlayarak gıdaların rengini ve tadını korur."
+    },
+    {
+      "Code": "E385",
+      "Name": "Kalsiyum Disodyum EDTA",
+      "Alternative_Name": "Etilendiamintetraasetik Asit",
+      "Function": "Stabilizatör",
+      "Description": "Metal iyonlarını bağlayarak gıdaların rengini ve tadını korur."
+    },
+    {
+      "Code": "E308",
+      "Name": "Gamma Tokoferol",
+      "Alternative_Name": "-",
+      "Function": "Antioksidan",
+      "Description": "Doğal bir antioksidandır. E vitamini formudur."
+    },
+    {
+      "Code": "E309",
+      "Name": "Delta Tokoferol",
+      "Alternative_Name": "-",
+      "Function": "Antioksidan",
+      "Description": "Doğal bir antioksidandır. E vitamini formudur."
+    },
+    {
+      "Code": "E311",
+      "Name": "Oktil Gallat",
+      "Alternative_Name": "-",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler."
+    },
+    {
+      "Code": "E312",
+      "Name": "Dodesil Gallat",
+      "Alternative_Name": "-",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler."
+    },
+    {
+      "Code": "E335",
+      "Name": "Sodium Tartrate",
+      "Alternative_Name": "Tartaric Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E336",
+      "Name": "Potassium Tartrate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E337",
+      "Name": "Sodium Potassium Tartrate",
+      "Alternative_Name": "Rochelle Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E338",
+      "Name": "Phosphoric Acid",
+      "Alternative_Name": "Orthophosphoric Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator. Commonly found in carbonated beverages."
+    },
+    {
+      "Code": "E343",
+      "Name": "Magnesium Phosphate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and acidity regulator."
+    },
+    {
+      "Code": "E350",
+      "Name": "Sodium Malate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E350",
+      "Name": "Sodium Malate",
+      "Alternative_Name": "Malic Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E351",
+      "Name": "Potassium Malate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E352",
+      "Name": "Calcium Malate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E353",
+      "Name": "Metatartaric Acid",
+      "Alternative_Name": "-",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator. Commonly found in wines."
+    },
+    {
+      "Code": "E354",
+      "Name": "Calcium Tartrate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E354",
+      "Name": "Calcium Tartrate",
+      "Alternative_Name": "Tartaric Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E355",
+      "Name": "Adipic Acid",
+      "Alternative_Name": "-",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and flavor enhancer."
+    },
+    {
+      "Code": "E357",
+      "Name": "Potassium Adipate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E357",
+      "Name": "Potassium Adipate",
+      "Alternative_Name": "Adipic Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E365",
+      "Name": "Sodium Lactate",
+      "Alternative_Name": "Lactic Acid Salt",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E365",
+      "Name": "Sodium Lactate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E366",
+      "Name": "Potassium Lactate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E367",
+      "Name": "Calcium Lactate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E375",
+      "Name": "Niacin",
+      "Alternative_Name": "Nicotinic Acid",
+      "Function": "Vitamin",
+      "Description": "Used as a vitamin supplement in foods."
+    },
+    {
+      "Code": "E375",
+      "Name": "Vitamin B3",
+      "Alternative_Name": "Nicotinic Acid",
+      "Function": "Vitamin",
+      "Description": "Used as a vitamin supplement in foods."
+    },
+    {
+      "Code": "E381",
+      "Name": "Ammonium Ferric Citrate",
+      "Alternative_Name": "Ammonium Iron Citrate",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and a source of iron."
+    },
+    {
+      "Code": "E363",
+      "Name": "Succinic Acid",
+      "Alternative_Name": "Amber Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and flavor enhancer."
+    },
+    {
+      "Code": "E370",
+      "Name": "1,4-Heptonolactone",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and flavor enhancer."
+    },
+    {
+      "Code": "E380",
+      "Name": "Triammonium Citrate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and acidity regulator."
+    },
+    {
+      "Code": "E385",
+      "Name": "Calcium Disodium EDTA",
+      "Alternative_Name": "EDTA",
+      "Function": "Stabilizer",
+      "Description": "Binds metal ions to preserve the color and taste of foods."
+    },
+    {
+      "Code": "E385",
+      "Name": "Calcium Disodium EDTA",
+      "Alternative_Name": "Ethylenediaminetetraacetic Acid",
+      "Function": "Stabilizer",
+      "Description": "Binds metal ions to preserve the color and taste of foods."
+    },
+    {
+      "Code": "E308",
+      "Name": "Gamma Tocopherol",
+      "Alternative_Name": "-",
+      "Function": "Antioxidant",
+      "Description": "A natural antioxidant. A form of Vitamin E."
+    },
+    {
+      "Code": "E309",
+      "Name": "Delta Tocopherol",
+      "Alternative_Name": "-",
+      "Function": "Antioxidant",
+      "Description": "A natural antioxidant. A form of Vitamin E."
+    },
+    {
+      "Code": "E311",
+      "Name": "Octyl Gallate",
+      "Alternative_Name": "-",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats."
+    },
+    {
+      "Code": "E312",
+      "Name": "Dodecyl Gallate",
+      "Alternative_Name": "-",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats."
+    },
+    {
+      "Code": "E320",
+      "Name": "Butilhidroksianisol",
+      "Alternative_Name": "BHA",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler. Gıdaların raf ömrünü uzatır."
+    },
+    {
+      "Code": "E321",
+      "Name": "Butilhidroksitoluen",
+      "Alternative_Name": "BHT",
+      "Function": "Antioksidan",
+      "Description": "Yağların oksidasyonunu önler. Gıdaların raf ömrünü uzatır."
+    },
+    {
+      "Code": "E322",
+      "Name": "Lesitin",
+      "Alternative_Name": "Fosfatidilkolin",
+      "Function": "Emülgatör/Stabilizatör",
+      "Description": "Doğal bir emülgatördür. Genellikle soya veya ayçiçeğinden elde edilir."
+    },
+    {
+      "Code": "E322",
+      "Name": "Lesitin",
+      "Alternative_Name": "ayçiçek lesitini",
+      "Function": "Emülgatör/Stabilizatör",
+      "Description": "Doğal bir emülgatördür. Genellikle soya veya ayçiçeğinden elde edilir."
+    },
+    {
+      "Code": "E325",
+      "Name": "Sodyum Laktat",
+      "Alternative_Name": "Sodyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve nem tutucu olarak kullanılır."
+    },
+    {
+      "Code": "E326",
+      "Name": "Potasyum Laktat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve nem tutucu olarak kullanılır."
+    },
+    {
+      "Code": "E327",
+      "Name": "Kalsiyum Laktat",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E328",
+      "Name": "Amonyum Laktat",
+      "Alternative_Name": "Amonyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E329",
+      "Name": "Magnezyum Laktat",
+      "Alternative_Name": "Magnezyum Tuzları",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör."
+    },
+    {
+      "Code": "E341",
+      "Name": "Kalsiyum Fosfat",
+      "Alternative_Name": "Kalsiyum Tuzu",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve asitlik düzenleyici."
+    },
+    {
+      "Code": "E400",
+      "Name": "Aljinik Asit",
+      "Alternative_Name": "Deniz Yosunu Ekstraktı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E401",
+      "Name": "Sodyum Aljinat",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E402",
+      "Name": "Potasyum Aljinat",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E403",
+      "Name": "Amonyum Aljinat",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E404",
+      "Name": "Kalsiyum Aljinat",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E405",
+      "Name": "Propilen Glikol Aljinat",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E406",
+      "Name": "Agar",
+      "Alternative_Name": "Agar",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E410",
+      "Name": "Keçiboynuzu Gamı",
+      "Alternative_Name": "Keçiboynuzu Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Keçiboynuzu ağacından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E412",
+      "Name": "Guar Gamı",
+      "Alternative_Name": "Guar Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Guar fasulyesinden elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E413",
+      "Name": "Tragakant Gam",
+      "Alternative_Name": "Tragakant Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Bitkisel kaynaklıdır. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E414",
+      "Name": "Arap Zamkı",
+      "Alternative_Name": "Akasya Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Akasya ağacından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E414",
+      "Name": "Arap Zamkı",
+      "Alternative_Name": "Gam Arabik",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Akasya ağacından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E415",
+      "Name": "Ksantan Gam",
+      "Alternative_Name": "Ksantan Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Fermentasyon yoluyla elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E416",
+      "Name": "Karaya Gam",
+      "Alternative_Name": "Karaya Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Bitkisel kaynaklıdır. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E417",
+      "Name": "Tara Gam",
+      "Alternative_Name": "Tara Sakızı",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Tara ağacından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E420",
+      "Name": "Sorbitol",
+      "Alternative_Name": "Glusitol",
+      "Function": "Tatlandırıcı/Nem Tutucu",
+      "Description": "Tatlandırıcı ve nem tutucu olarak kullanılır."
+    },
+    {
+      "Code": "E421",
+      "Name": "Mannitol",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı/Nem Tutucu",
+      "Description": "Tatlandırıcı ve nem tutucu olarak kullanılır."
+    },
+    {
+      "Code": "E440(a)",
+      "Name": "Pektin",
+      "Alternative_Name": "Meyve Pektini",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Meyvelerden elde edilir. Alerji Riski: Pektine karşı alerji nadirdir, ancak hassasiyeti olan kişilerde dikkatli olunmalıdır."
+    },
+    {
+      "Code": "E450",
+      "Name": "Difosfatlar",
+      "Alternative_Name": "Pirofosfatlar",
+      "Function": "Stabilizatör/Kabartıcı",
+      "Description": "Stabilizatör ve kabartıcı olarak kullanılır."
+    },
+    {
+      "Code": "E461",
+      "Name": "Metil Selüloz",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Bitkisel kaynaklıdır. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E441",
+      "Name": "Jelatin",
+      "Alternative_Name": "Hayvansal Jelatin",
+      "Function": "Kıvam Artırıcı/Jelatinleştirici",
+      "Description": "Hayvansal kaynaklıdır. Jel oluşturucu ve kıvam artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E442",
+      "Name": "Amonyum Fosfatit",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Çikolata ve şekerlemelerde emülgatör olarak kullanılır."
+    },
+    {
+      "Code": "E422",
+      "Name": "Gliserol",
+      "Alternative_Name": "Gliserin",
+      "Function": "Nem Tutucu/Tatlandırıcı",
+      "Description": "Nem tutucu ve tatlandırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E430",
+      "Name": "Polisorbat 20",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E431",
+      "Name": "Polisorbat 40",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E432",
+      "Name": "Polisorbat 60",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E433",
+      "Name": "Polisorbat 80",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E434",
+      "Name": "Polisorbat 65",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E435",
+      "Name": "Polisorbat 80",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E436",
+      "Name": "Polisorbat 85",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E470",
+      "Name": "Yağ Asitlerinin Metal Tuzları",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör/Stabilizatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E471",
+      "Name": "Mono ve Digliseritler",
+      "Alternative_Name": "Mono ve Digliserit Yağ Asitleri",
+      "Function": "Emülgatör/Stabilizatör",
+      "Description": "Yağların mono ve digliseritlerinden elde edilir."
+    },
+    {
+      "Code": "E472",
+      "Name": "Yağ Asitlerinin Esterleri",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör/Stabilizatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E473",
+      "Name": "Sukroz Esterleri",
+      "Alternative_Name": "Şeker Esterleri",
+      "Function": "Emülgatör",
+      "Description": "Şekerden elde edilir. Emülgatör olarak kullanılır."
+    },
+    {
+      "Code": "E474",
+      "Name": "Şeker ve Yağ Asitlerinin Esterleri",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Şeker ve yağ asitlerinden elde edilir."
+    },
+    {
+      "Code": "E475",
+      "Name": "Poligliserol Esterleri",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E476",
+      "Name": "Poligliserol",
+      "Alternative_Name": "Poligliserol Polirisinoleat",
+      "Function": "Çikolata ve şekerlemelerde emülgatör olarak kullanılır.",
+      "Description": "Belirlenen sınırlar dahilinde kullanıldığında güvenli kabul edilir."
+    },
+    {
+      "Code": "E476",
+      "Name": "Poligliserol",
+      "Alternative_Name": "Polirisinolat",
+      "Function": "Çikolata ve şekerlemelerde emülgatör olarak kullanılır.",
+      "Description": "Belirlenen sınırlar dahilinde kullanıldığında güvenli kabul edilir."
+    },
+    {
+      "Code": "E477",
+      "Name": "Propilen Glikol Esterleri",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör ve stabilizatör olarak kullanılır.",
+      "Description": "Hayvansal yağlardan elde edilen uygun olmayabilir."
+    },
+    {
+      "Code": "E320",
+      "Name": "Butylated Hydroxyanisole",
+      "Alternative_Name": "BHA",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats. Extends the shelf life of foods."
+    },
+    {
+      "Code": "E321",
+      "Name": "Butylated Hydroxytoluene",
+      "Alternative_Name": "BHT",
+      "Function": "Antioxidant",
+      "Description": "Prevents oxidation of fats. Extends the shelf life of foods."
+    },
+    {
+      "Code": "E322",
+      "Name": "Lecithin",
+      "Alternative_Name": "Phosphatidylcholine",
+      "Function": "Emulsifier/Stabilizer",
+      "Description": "A natural emulsifier. Commonly derived from soy or sunflower."
+    },
+    {
+      "Code": "E325",
+      "Name": "Sodium Lactate",
+      "Alternative_Name": "Sodium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and humectant."
+    },
+    {
+      "Code": "E326",
+      "Name": "Potassium Lactate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and humectant."
+    },
+    {
+      "Code": "E327",
+      "Name": "Calcium Lactate",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E328",
+      "Name": "Ammonium Lactate",
+      "Alternative_Name": "Ammonium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E329",
+      "Name": "Magnesium Lactate",
+      "Alternative_Name": "Magnesium Salts",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E341",
+      "Name": "Calcium Phosphate",
+      "Alternative_Name": "Calcium Salt",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and acidity regulator."
+    },
+    {
+      "Code": "E400",
+      "Name": "Alginic Acid",
+      "Alternative_Name": "Seaweed Extract",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E401",
+      "Name": "Sodium Alginate",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E402",
+      "Name": "Potassium Alginate",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E403",
+      "Name": "Ammonium Alginate",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E404",
+      "Name": "Calcium Alginate",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E405",
+      "Name": "Propylene Glycol Alginate",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E406",
+      "Name": "Agar",
+      "Alternative_Name": "Agar",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E410",
+      "Name": "Locust Bean Gum",
+      "Alternative_Name": "Carob Gum",
+      "Function": "Thickener",
+      "Description": "Derived from the carob tree. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E412",
+      "Name": "Guar Gum",
+      "Alternative_Name": "Guar Resin",
+      "Function": "Thickener",
+      "Description": "Derived from guar beans. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E413",
+      "Name": "Tragacanth Gum",
+      "Alternative_Name": "Tragacanth Resin",
+      "Function": "Thickener",
+      "Description": "Plant-based. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E414",
+      "Name": "Gum Arabic",
+      "Alternative_Name": "Acacia Gum",
+      "Function": "Thickener",
+      "Description": "Derived from the acacia tree. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E415",
+      "Name": "Xanthan Gum",
+      "Alternative_Name": "Xanthan Resin",
+      "Function": "Thickener",
+      "Description": "Produced through fermentation. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E416",
+      "Name": "Karaya Gum",
+      "Alternative_Name": "Karaya Resin",
+      "Function": "Thickener",
+      "Description": "Plant-based. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E417",
+      "Name": "Tara Gum",
+      "Alternative_Name": "Tara Resin",
+      "Function": "Thickener",
+      "Description": "Derived from the tara tree. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E420",
+      "Name": "Sorbitol",
+      "Alternative_Name": "Glucitol",
+      "Function": "Sweetener/Humectant",
+      "Description": "Used as a sweetener and humectant."
+    },
+    {
+      "Code": "E421",
+      "Name": "Mannitol",
+      "Alternative_Name": "-",
+      "Function": "Sweetener/Humectant",
+      "Description": "Used as a sweetener and humectant."
+    },
+    {
+      "Code": "E440(a)",
+      "Name": "Pectin",
+      "Alternative_Name": "Fruit Pectin",
+      "Function": "Thickener",
+      "Description": "Derived from fruits. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E450",
+      "Name": "sodyum asit pirofosfat",
+      "Alternative_Name": "SAPP",
+      "Function": "Et ve deniz ürünlerinde su tutma kapasitesini artırır",
+      "Description": "Kabartıcı ajan olarak kullanılır."
+    },
+    {
+      "Code": "E450",
+      "Name": "Sodium Acid Pyrophosphate",
+      "Alternative_Name": "SAPP",
+      "Function": "Increases water retention capacity in meat and seafood products",
+      "Description": "Used as a leavening agent."
+    },
+    {
+      "Code": "E450(i)",
+      "Name": "Diphosphates",
+      "Alternative_Name": "Pyrophosphates",
+      "Function": "Stabilizer/Leavening Agent",
+      "Description": "Used as a stabilizer and leavening agent."
+    },
+    {
+      "Code": "E461",
+      "Name": "Methyl Cellulose",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Plant-based. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E441",
+      "Name": "Gelatin",
+      "Alternative_Name": "Animal Gelatin",
+      "Function": "Thickener/Gelling Agent",
+      "Description": "Animal-based. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E442",
+      "Name": "Ammonium Phosphatides",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier in chocolate and confectionery."
+    },
+    {
+      "Code": "E422",
+      "Name": "Glycerol",
+      "Alternative_Name": "Glycerin",
+      "Function": "Humectant/Sweetener",
+      "Description": "Used as a humectant and sweetener."
+    },
+    {
+      "Code": "E430",
+      "Name": "Polysorbate 20",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E431",
+      "Name": "Polysorbate 40",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E432",
+      "Name": "Polysorbate 60",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E433",
+      "Name": "Polysorbate 80",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E434",
+      "Name": "Polysorbate 65",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E435",
+      "Name": "Polysorbate 80",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E436",
+      "Name": "Polysorbate 85",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E470",
+      "Name": "Metal Salts of Fatty Acids",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier/Stabilizer",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E471",
+      "Name": "Mono- and Diglycerides",
+      "Alternative_Name": "Mono- and Diglycerides of Fatty Acids",
+      "Function": "Emulsifier/Stabilizer",
+      "Description": "Derived from mono- and diglycerides of fats."
+    },
+    {
+      "Code": "E472",
+      "Name": "Esters of Fatty Acids",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier/Stabilizer",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E473",
+      "Name": "Sucrose Esters",
+      "Alternative_Name": "Sugar Esters",
+      "Function": "Emulsifier",
+      "Description": "Derived from sugar. Used as an emulsifier."
+    },
+    {
+      "Code": "E474",
+      "Name": "Sucrose and Fatty Acid Esters",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Derived from sugar and fatty acids."
+    },
+    {
+      "Code": "E475",
+      "Name": "Polyglycerol Esters",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E476",
+      "Name": "Polyglycerol",
+      "Alternative_Name": "Polyricinoleate",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier in chocolate and confectionery."
+    },
+    {
+      "Code": "E477",
+      "Name": "Propylene Glycol Esters",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E478",
+      "Name": "Laktik Asit ve Yağ Asitlerinin Esterleri",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E479(b)",
+      "Name": "Termo-Okside Soya Yağı ve Mono ve Digliseritler",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör olarak kullanılır."
+    },
+    {
+      "Code": "E407",
+      "Name": "Karragenan",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Deniz yosunlarından elde edilir. Jel oluşturucu ve kıvam artırıcıdır."
+    },
+    {
+      "Code": "E481",
+      "Name": "Sodyum Stearoil-2-Laktilat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E482",
+      "Name": "Kalsiyum Stearoil-2-Laktilat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E483",
+      "Name": "Stearil Tartarat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E491",
+      "Name": "Sorbitan Monostearat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E492",
+      "Name": "Sorbitan Tristearat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E493",
+      "Name": "Sorbitan Monolaurat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E494",
+      "Name": "Sorbitan Monooleat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E495",
+      "Name": "Sorbitan Monopalmitat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E500",
+      "Name": "Sodyum Karbonat",
+      "Alternative_Name": "Sodyum hidrojen karbonat",
+      "Function": "Kabartıcı/Asitlik Düzenleyici",
+      "Description": "Aşırı tüketimi mide rahatsızlıklarına veya elektrolit dengesizliğine yol açabilir."
+    },
+    {
+      "Code": "E501",
+      "Name": "Potasyum Karbonat",
+      "Alternative_Name": "Potas Külü",
+      "Function": "Kabartıcı/Asitlik Düzenleyici",
+      "Description": "Kabartıcı ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E504",
+      "Name": "Magnezyum Karbonat",
+      "Alternative_Name": "Magnezyum Tuzları",
+      "Function": "Kabartıcı/Asitlik Düzenleyici",
+      "Description": "Kabartıcı ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E504",
+      "Name": "Magnezyum Karbonat",
+      "Alternative_Name": "Karbonik Asit Tuzu",
+      "Function": "Kabartıcı/Asitlik Düzenleyici",
+      "Description": "Kabartıcı ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E507",
+      "Name": "Hidroklorik Asit",
+      "Alternative_Name": "Tuz Ruhu",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E509",
+      "Name": "Kalsiyum Klorür",
+      "Alternative_Name": "Kalsiyum Tuzları",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E509",
+      "Name": "Kalsiyum Klorür",
+      "Alternative_Name": "Hidroklorik Asit Tuzu",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E511",
+      "Name": "Magnezyum Klorür",
+      "Alternative_Name": "Magnezyum Tuzları",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E503",
+      "Name": "Amonyum Karbonat",
+      "Alternative_Name": "Kokulu Tuz",
+      "Function": "Kabartıcı",
+      "Description": "Kabartıcı ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E503(i)",
+      "Name": "Amonyum Hidrojen Karbonat",
+      "Alternative_Name": "Kokulu Tuz",
+      "Function": "kabartıcı ajan",
+      "Description": "Kabartıcı ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E508",
+      "Name": "Potasyum Klorür",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E510",
+      "Name": "Amonyum Klorür",
+      "Alternative_Name": "Nişadır",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve aroma artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E513",
+      "Name": "Kükürt Asidi",
+      "Alternative_Name": "Sülfürik Asit",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E514",
+      "Name": "Sodyum Sülfat",
+      "Alternative_Name": "Glauber Tuzu",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E515",
+      "Name": "Potasyum Sülfat",
+      "Alternative_Name": "Potasyum Tuzları",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E515",
+      "Name": "Potasyum Sülfat",
+      "Alternative_Name": "Sülfürik Asit Tuzu",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve asitlik düzenleyici olarak kullanılır."
+    },
+    {
+      "Code": "E516",
+      "Name": "Kalsiyum Sülfat",
+      "Alternative_Name": "Alçı Taşı",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E518",
+      "Name": "Magnezyum Sülfat",
+      "Alternative_Name": "İngiliz Tuzu",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E519",
+      "Name": "Alüminyum Sülfat",
+      "Alternative_Name": "Alüminyum Tuzları",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E524",
+      "Name": "Sodyum Hidroksit",
+      "Alternative_Name": "Kostik Soda",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve pH dengeleyici olarak kullanılır."
+    },
+    {
+      "Code": "E525",
+      "Name": "Potasyum Hidroksit",
+      "Alternative_Name": "Potas Kostik",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve pH dengeleyici olarak kullanılır."
+    },
+    {
+      "Code": "E526",
+      "Name": "Kalsiyum Hidroksit",
+      "Alternative_Name": "Sönmüş Kireç",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E527",
+      "Name": "Amonyum Hidroksit",
+      "Alternative_Name": "Amonyak",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve pH dengeleyici olarak kullanılır."
+    },
+    {
+      "Code": "E528",
+      "Name": "Magnezyum Hidroksit",
+      "Alternative_Name": "Magnezyum Sütü",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E529",
+      "Name": "Kalsiyum Oksit",
+      "Alternative_Name": "Sönmemiş Kireç",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E530",
+      "Name": "Magnezyum Oksit",
+      "Alternative_Name": "Magnezya",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E478",
+      "Name": "Esters of Lactic Acid and Fatty Acids",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E479(b)",
+      "Name": "Thermo-Oxidized Soybean Oil and Mono- and Diglycerides",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier."
+    },
+    {
+      "Code": "E407",
+      "Name": "Carrageenan",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Derived from seaweed. Used as a gelling and thickening agent."
+    },
+    {
+      "Code": "E481",
+      "Name": "Sodium Stearoyl-2-Lactylate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E482",
+      "Name": "Calcium Stearoyl-2-Lactylate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E483",
+      "Name": "Stearyl Tartrate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E491",
+      "Name": "Sorbitan Monostearate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E492",
+      "Name": "Sorbitan Tristearate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E493",
+      "Name": "Sorbitan Monolaurate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E494",
+      "Name": "Sorbitan Monooleate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E495",
+      "Name": "Sorbitan Monopalmitate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E500",
+      "Name": "Sodium Carbonate",
+      "Alternative_Name": "Soda Ash",
+      "Function": "Leavening Agent/Acidity Regulator",
+      "Description": "Used as a leavening agent and acidity regulator."
+    },
+    {
+      "Code": "E501",
+      "Name": "Potassium Carbonate",
+      "Alternative_Name": "Potash",
+      "Function": "Leavening Agent/Acidity Regulator",
+      "Description": "Used as a leavening agent and acidity regulator."
+    },
+    {
+      "Code": "E504",
+      "Name": "Magnesium Carbonate",
+      "Alternative_Name": "Magnesium Salts",
+      "Function": "Leavening Agent/Acidity Regulator",
+      "Description": "Used as a leavening agent and acidity regulator."
+    },
+    {
+      "Code": "E504",
+      "Name": "Magnesium Carbonate",
+      "Alternative_Name": "Carbonic Acid Salt",
+      "Function": "Leavening Agent/Acidity Regulator",
+      "Description": "Used as a leavening agent and acidity regulator."
+    },
+    {
+      "Code": "E507",
+      "Name": "Hydrochloric Acid",
+      "Alternative_Name": "Muriatic Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator."
+    },
+    {
+      "Code": "E509",
+      "Name": "Calcium Chloride",
+      "Alternative_Name": "Calcium Salts",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E509",
+      "Name": "Calcium Chloride",
+      "Alternative_Name": "Hydrochloric Acid Salt",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E511",
+      "Name": "Magnesium Chloride",
+      "Alternative_Name": "Magnesium Salts",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E503",
+      "Name": "Ammonium Carbonate",
+      "Alternative_Name": "Baker's Ammonia",
+      "Function": "Leavening Agent",
+      "Description": "Used as a leavening agent and acidity regulator."
+    },
+    {
+      "Code": "E508",
+      "Name": "Potassium Chloride",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E510",
+      "Name": "Ammonium Chloride",
+      "Alternative_Name": "Sal Ammoniac",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and flavor enhancer."
+    },
+    {
+      "Code": "E513",
+      "Name": "Sulfuric Acid",
+      "Alternative_Name": "Sulphuric Acid",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator."
+    },
+    {
+      "Code": "E514",
+      "Name": "Sodium Sulfate",
+      "Alternative_Name": "Glauber's Salt",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and acidity regulator."
+    },
+    {
+      "Code": "E515",
+      "Name": "Potassium Sulfate",
+      "Alternative_Name": "Potassium Salts",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and acidity regulator."
+    },
+    {
+      "Code": "E515",
+      "Name": "Potassium Sulfate",
+      "Alternative_Name": "Sulfuric Acid Salt",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and acidity regulator."
+    },
+    {
+      "Code": "E516",
+      "Name": "Calcium Sulfate",
+      "Alternative_Name": "Gypsum",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E518",
+      "Name": "Magnesium Sulfate",
+      "Alternative_Name": "Epsom Salt",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E519",
+      "Name": "Aluminium Sulfate",
+      "Alternative_Name": "Aluminium Salts",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E524",
+      "Name": "Sodium Hydroxide",
+      "Alternative_Name": "Caustic Soda",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and pH balancer."
+    },
+    {
+      "Code": "E525",
+      "Name": "Potassium Hydroxide",
+      "Alternative_Name": "Caustic Potash",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and pH balancer."
+    },
+    {
+      "Code": "E526",
+      "Name": "Calcium Hydroxide",
+      "Alternative_Name": "Slaked Lime",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E527",
+      "Name": "Ammonium Hydroxide",
+      "Alternative_Name": "Ammonia",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and pH balancer."
+    },
+    {
+      "Code": "E528",
+      "Name": "Magnesium Hydroxide",
+      "Alternative_Name": "Milk of Magnesia",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E529",
+      "Name": "Calcium Oxide",
+      "Alternative_Name": "Quicklime",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E530",
+      "Name": "Magnesium Oxide",
+      "Alternative_Name": "Magnesia",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E535",
+      "Name": "Sodyum Ferro Siyanür",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Tuzlarda topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E536",
+      "Name": "Potasyum Ferro Siyanür",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Tuzlarda topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E540",
+      "Name": "Dikalik Fosfat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E541",
+      "Name": "Asitli Alüminyum Fosfat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve kabartıcı olarak kullanılır."
+    },
+    {
+      "Code": "E542",
+      "Name": "Kemik Fosfatı",
+      "Alternative_Name": "Hayvansal Fosfat",
+      "Function": "Stabilizatör",
+      "Description": "Hayvansal kaynaklıdır. Stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E544",
+      "Name": "Kalsiyum Polifosfat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E545",
+      "Name": "Amonyum Polifosfat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E551",
+      "Name": "Silikon Dioksit",
+      "Alternative_Name": "Silika",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Toz ürünlerde topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E552",
+      "Name": "Kalsiyum Silikat",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Toz ürünlerde topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E553(a)",
+      "Name": "Magnezyum Silikat",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Toz ürünlerde topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E553(b)",
+      "Name": "Talk",
+      "Alternative_Name": "Talk Pudrası",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Toz ürünlerde topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E554",
+      "Name": "Sodyum Alüminyum Silikat",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Toz ürünlerde topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E556",
+      "Name": "Kalsiyum Alüminyum Silikat",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Toz ürünlerde topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E558",
+      "Name": "Bentonit",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Topaklanmayı önleyici ve berraklaştırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E559",
+      "Name": "Alüminyum Silikat",
+      "Alternative_Name": "-",
+      "Function": "Topaklanmayı Önleyici",
+      "Description": "Topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E570",
+      "Name": "Yağ Asitleri",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve emülgatör olarak kullanılır."
+    },
+    {
+      "Code": "E572",
+      "Name": "Magnezyum Stearat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve topaklanmayı önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E575",
+      "Name": "Glukono Delta Lakton",
+      "Alternative_Name": "-",
+      "Function": "Asitlik Düzenleyici",
+      "Description": "Asitlik düzenleyici ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E576",
+      "Name": "Sodyum Glukonat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E577",
+      "Name": "Potasyum Glukonat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E578",
+      "Name": "Kalsiyum Glukonat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve sertleştirici olarak kullanılır."
+    },
+    {
+      "Code": "E579",
+      "Name": "Demir Glukonat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve demir kaynağı olarak kullanılır."
+    },
+    {
+      "Code": "E585",
+      "Name": "Demir Laktat",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve demir kaynağı olarak kullanılır."
+    },
+    {
+      "Code": "E626",
+      "Name": "Guanozin Monofosfat",
+      "Alternative_Name": "GMP",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. Genellikle hazır çorbalarda bulunur."
+    },
+    {
+      "Code": "E620",
+      "Name": "Glutamik Asit",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. Doğal olarak proteinlerde bulunur."
+    },
+    {
+      "Code": "E621",
+      "Name": "Monosodyum Glutamat",
+      "Alternative_Name": "Çin Tuzu",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. Umami tadı verir."
+    },
+    {
+      "Code": "E621",
+      "Name": "MSG",
+      "Alternative_Name": "Çin Tuzu",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. Umami tadı verir."
+    },
+    {
+      "Code": "E622",
+      "Name": "Monopotasiyum Glutamat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E623",
+      "Name": "Kalsiyum Diglutamat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E624",
+      "Name": "Monoamonyum Glutamat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E625",
+      "Name": "Magnezyum Diglutamat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E627",
+      "Name": "Disodyum Guanozin Monofosfat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. Genellikle hazır gıdalarda bulunur."
+    },
+    {
+      "Code": "E629",
+      "Name": "Kalsiyum Guanozin Monofosfat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E631",
+      "Name": "Disodyum İnozinat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. Genellikle hazır çorbalarda bulunur."
+    },
+    {
+      "Code": "E633",
+      "Name": "Kalsiyum İnozinat",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E635",
+      "Name": "Disodyum 5",
+      "Alternative_Name": "Ribonükleotid",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı olarak kullanılır. MSG ile birlikte kullanılır."
+    },
+    {
+      "Code": "E636",
+      "Name": "Maltol",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı ve aroma verici olarak kullanılır."
+    },
+    {
+      "Code": "E637",
+      "Name": "Etil Maltol",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı ve aroma verici olarak kullanılır."
+    },
+    {
+      "Code": "E640",
+      "Name": "Glisin ve Sodyum Tuzu",
+      "Alternative_Name": "-",
+      "Function": "Tatlandırıcı",
+      "Description": "Tat artırıcı ve aroma verici olarak kullanılır."
+    },
+    {
+      "Code": "E900",
+      "Name": "Dimetilpolisiloksan",
+      "Alternative_Name": "Köpük Önleyici",
+      "Function": "Köpük Önleyici",
+      "Description": "Köpük önleyici olarak kullanılır."
+    },
+    {
+      "Code": "E901",
+      "Name": "Balmumu",
+      "Alternative_Name": "Arı Balmumu",
+      "Function": "Kaplama Maddesi",
+      "Description": "Meyve ve şekerlemelerde kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E903",
+      "Name": "Karnauba Mumu",
+      "Alternative_Name": "-",
+      "Function": "Kaplama Maddesi",
+      "Description": "Şekerleme ve meyvelerde kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E904",
+      "Name": "Şellak",
+      "Alternative_Name": "-",
+      "Function": "Kaplama Maddesi",
+      "Description": "Şekerleme ve meyvelerde kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E905",
+      "Name": "Mikro Kristalize Parafin",
+      "Alternative_Name": "-",
+      "Function": "Kaplama Maddesi",
+      "Description": "Kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E907",
+      "Name": "Hidrojenlenmiş Polideken",
+      "Alternative_Name": "-",
+      "Function": "Kaplama Maddesi",
+      "Description": "Kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E910",
+      "Name": "L-Sistein",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde hamurun işlenmesini kolaylaştırır."
+    },
+    {
+      "Code": "E913",
+      "Name": "Lanolin",
+      "Alternative_Name": "Yün Yağı",
+      "Function": "Kaplama Maddesi",
+      "Description": "Kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E920",
+      "Name": "L-Sistein Hidroklorür",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde hamurun işlenmesini kolaylaştırır."
+    },
+    {
+      "Code": "E921",
+      "Name": "L-Sistein Monohidroklorür",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde hamurun işlenmesini kolaylaştırır."
+    },
+    {
+      "Code": "E931",
+      "Name": "Azot",
+      "Alternative_Name": "-",
+      "Function": "Paketleme Gazı",
+      "Description": "Paketleme gazı olarak kullanılır."
+    },
+    {
+      "Code": "E932",
+      "Name": "Argon",
+      "Alternative_Name": "-",
+      "Function": "Paketleme Gazı",
+      "Description": "Paketleme gazı olarak kullanılır."
+    },
+    {
+      "Code": "E950",
+      "Name": "Asesülfam Potasyum",
+      "Alternative_Name": "Kalorisiz Tatlandırıcı",
+      "Function": "Tatlandırıcı",
+      "Description": "Kalorisiz tatlandırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E951",
+      "Name": "Aspartam",
+      "Alternative_Name": "Kalorisiz Tatlandırıcı",
+      "Function": "Tatlandırıcı",
+      "Description": "Kalorisiz tatlandırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E952",
+      "Name": "Siklamik Asit ve Tuzları",
+      "Alternative_Name": "Kalorisiz Tatlandırıcı",
+      "Function": "Tatlandırıcı",
+      "Description": "Kalorisiz tatlandırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E954",
+      "Name": "Sakarin ve Tuzları",
+      "Alternative_Name": "Kalorisiz Tatlandırıcı",
+      "Function": "Tatlandırıcı",
+      "Description": "Kalorisiz tatlandırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E957",
+      "Name": "Taumatin",
+      "Alternative_Name": "Doğal Tatlandırıcı",
+      "Function": "Tatlandırıcı",
+      "Description": "Doğal tatlandırıcı ve aroma artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E965",
+      "Name": "Maltitol ve Maltitol Şurubu",
+      "Alternative_Name": "Şeker Alkolleri",
+      "Function": "Tatlandırıcı",
+      "Description": "Şeker yerine kullanılan tatlandırıcı."
+    },
+    {
+      "Code": "E966",
+      "Name": "Laktitol",
+      "Alternative_Name": "Şeker Alkolleri",
+      "Function": "Tatlandırıcı",
+      "Description": "Şeker yerine kullanılan tatlandırıcı."
+    },
+    {
+      "Code": "E967",
+      "Name": "Ksilitol",
+      "Alternative_Name": "Şeker Alkolleri",
+      "Function": "Tatlandırıcı",
+      "Description": "Şeker yerine kullanılan tatlandırıcı."
+    },
+    {
+      "Code": "E999",
+      "Name": "Kuşburnu Ekstraktı",
+      "Alternative_Name": "Köpük Artırıcı",
+      "Function": "Köpük Artırıcı",
+      "Description": "Köpük artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E999",
+      "Name": "Quillaia",
+      "Alternative_Name": "Köpük Artırıcı",
+      "Function": "Köpük Artırıcı",
+      "Description": "Köpük artırıcı olarak kullanılır."
+    },
+    {
+      "Code": "E1100",
+      "Name": "Amilaz Enzimi",
+      "Alternative_Name": "-",
+      "Function": "Enzim",
+      "Description": "Unlu mamullerde hamurun işlenmesini kolaylaştırır."
+    },
+    {
+      "Code": "E1200",
+      "Name": "Polidekstroz",
+      "Alternative_Name": "-",
+      "Function": "Dolgu Maddesi",
+      "Description": "Dolgu maddesi ve lif kaynağı olarak kullanılır."
+    },
+    {
+      "Code": "E1201",
+      "Name": "Polivinilpirolidon",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E1202",
+      "Name": "Polivinilpirolidon Kopolimer",
+      "Alternative_Name": "-",
+      "Function": "Stabilizatör",
+      "Description": "Stabilizatör ve kaplama maddesi olarak kullanılır."
+    },
+    {
+      "Code": "E1400",
+      "Name": "Modifiye Nişasta",
+      "Alternative_Name": "-",
+      "Function": "Kıvam Artırıcı",
+      "Description": "Kıvam artırıcı ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E1450",
+      "Name": "Nişasta Sodyum Oktenil Süksinat",
+      "Alternative_Name": "-",
+      "Function": "Emülgatör",
+      "Description": "Emülgatör ve stabilizatör olarak kullanılır."
+    },
+    {
+      "Code": "E924",
+      "Name": "Potasyum Bromat",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde hamurun işlenmesini kolaylaştırır."
+    },
+    {
+      "Code": "E925",
+      "Name": "Klor",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde beyazlatıcı olarak kullanılır."
+    },
+    {
+      "Code": "E926",
+      "Name": "Klor Dioksit",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde beyazlatıcı olarak kullanılır."
+    },
+    {
+      "Code": "E927",
+      "Name": "Azodikarbonamid",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde hamurun işlenmesini kolaylaştırır."
+    },
+    {
+      "Code": "E928",
+      "Name": "Benzoil Peroksit",
+      "Alternative_Name": "-",
+      "Function": "Un İşlem Maddesi",
+      "Description": "Unlu mamullerde beyazlatıcı olarak kullanılır."
+    },
+    {
+      "Code": "E1510",
+      "Name": "Etanol",
+      "Alternative_Name": "Alkol",
+      "Function": "Çözücü",
+      "Description": "Çözücü ve taşıyıcı madde olarak kullanılır."
+    },
+    {
+      "Code": "E1517",
+      "Name": "Gliseril Diester",
+      "Alternative_Name": "-",
+      "Function": "Çözücü",
+      "Description": "Çözücü ve taşıyıcı madde olarak kullanılır."
+    },
+    {
+      "Code": "E1518",
+      "Name": "Triasetin",
+      "Alternative_Name": "-",
+      "Function": "Çözücü",
+      "Description": "Çözücü ve taşıyıcı madde olarak kullanılır."
+    },
+    {
+      "Code": "E1520",
+      "Name": "Propilen Glikol",
+      "Alternative_Name": "Nem Tutucu",
+      "Function": "Çözücü",
+      "Description": "Çözücü ve nem tutucu olarak kullanılır."
+    },
+    {
+      "Code": "E535",
+      "Name": "Sodium Ferrocyanide",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in salts."
+    },
+    {
+      "Code": "E536",
+      "Name": "Potassium Ferrocyanide",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in salts."
+    },
+    {
+      "Code": "E540",
+      "Name": "Dicalcium Phosphate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E541",
+      "Name": "Acidic Aluminium Phosphate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and leavening agent."
+    },
+    {
+      "Code": "E542",
+      "Name": "Bone Phosphate",
+      "Alternative_Name": "Animal Phosphate",
+      "Function": "Stabilizer",
+      "Description": "Animal-based. Used as a stabilizer."
+    },
+    {
+      "Code": "E544",
+      "Name": "Calcium Polyphosphate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E545",
+      "Name": "Ammonium Polyphosphate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E551",
+      "Name": "Silicon Dioxide",
+      "Alternative_Name": "Silica",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in powdered products."
+    },
+    {
+      "Code": "E552",
+      "Name": "Calcium Silicate",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in powdered products."
+    },
+    {
+      "Code": "E553(a)",
+      "Name": "Magnesium Silicate",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in powdered products."
+    },
+    {
+      "Code": "E553(b)",
+      "Name": "Talc",
+      "Alternative_Name": "Talcum Powder",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in powdered products."
+    },
+    {
+      "Code": "E554",
+      "Name": "Sodium Aluminium Silicate",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in powdered products."
+    },
+    {
+      "Code": "E556",
+      "Name": "Calcium Aluminium Silicate",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent in powdered products."
+    },
+    {
+      "Code": "E558",
+      "Name": "Bentonite",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking and clarifying agent."
+    },
+    {
+      "Code": "E559",
+      "Name": "Aluminium Silicate",
+      "Alternative_Name": "-",
+      "Function": "Anti-Caking Agent",
+      "Description": "Used as an anti-caking agent."
+    },
+    {
+      "Code": "E570",
+      "Name": "Fatty Acids",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and emulsifier."
+    },
+    {
+      "Code": "E572",
+      "Name": "Magnesium Stearate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and anti-caking agent."
+    },
+    {
+      "Code": "E575",
+      "Name": "Glucono Delta-Lactone",
+      "Alternative_Name": "-",
+      "Function": "Acidity Regulator",
+      "Description": "Used as an acidity regulator and stabilizer."
+    },
+    {
+      "Code": "E576",
+      "Name": "Sodium Gluconate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E577",
+      "Name": "Potassium Gluconate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E578",
+      "Name": "Calcium Gluconate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and firming agent."
+    },
+    {
+      "Code": "E579",
+      "Name": "Ferrous Gluconate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and iron source."
+    },
+    {
+      "Code": "E585",
+      "Name": "Ferrous Lactate",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and iron source."
+    },
+    {
+      "Code": "E626",
+      "Name": "Guanosine Monophosphate",
+      "Alternative_Name": "GMP",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer. Commonly found in instant soups."
+    },
+    {
+      "Code": "E620",
+      "Name": "Glutamic Acid",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer. Naturally found in proteins."
+    },
+    {
+      "Code": "E621",
+      "Name": "Monosodium Glutamate",
+      "Alternative_Name": "MSG",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer. Provides umami taste."
+    },
+    {
+      "Code": "E622",
+      "Name": "Monopotassium Glutamate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer."
+    },
+    {
+      "Code": "E623",
+      "Name": "Calcium Diglutamate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer."
+    },
+    {
+      "Code": "E624",
+      "Name": "Monoammonium Glutamate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer."
+    },
+    {
+      "Code": "E625",
+      "Name": "Magnesium Diglutamate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer."
+    },
+    {
+      "Code": "E627",
+      "Name": "Disodium Guanylate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer. Commonly found in processed foods."
+    },
+    {
+      "Code": "E629",
+      "Name": "Calcium Guanylate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer."
+    },
+    {
+      "Code": "E631",
+      "Name": "Disodium Inosinate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer. Commonly found in instant soups."
+    },
+    {
+      "Code": "E633",
+      "Name": "Calcium Inosinate",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer."
+    },
+    {
+      "Code": "E635",
+      "Name": "Disodium 5'-Ribonucleotide",
+      "Alternative_Name": "Ribonucleotide",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor enhancer. Often combined with MSG."
+    },
+    {
+      "Code": "E636",
+      "Name": "Maltol",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor and aroma enhancer."
+    },
+    {
+      "Code": "E637",
+      "Name": "Ethyl Maltol",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor and aroma enhancer."
+    },
+    {
+      "Code": "E640",
+      "Name": "Glycine and Sodium Salt",
+      "Alternative_Name": "-",
+      "Function": "Flavor Enhancer",
+      "Description": "Used as a flavor and aroma enhancer."
+    },
+    {
+      "Code": "E900",
+      "Name": "Dimethylpolysiloxane",
+      "Alternative_Name": "Anti-Foaming Agent",
+      "Function": "Anti-Foaming Agent",
+      "Description": "Used as an anti-foaming agent."
+    },
+    {
+      "Code": "E901",
+      "Name": "Beeswax",
+      "Alternative_Name": "Bee Wax",
+      "Function": "Coating Agent",
+      "Description": "Used as a coating agent for fruits and confectionery."
+    },
+    {
+      "Code": "E903",
+      "Name": "Carnauba Wax",
+      "Alternative_Name": "-",
+      "Function": "Coating Agent",
+      "Description": "Used as a coating agent for confectionery and fruits."
+    },
+    {
+      "Code": "E904",
+      "Name": "Shellac",
+      "Alternative_Name": "-",
+      "Function": "Coating Agent",
+      "Description": "Used as a coating agent for confectionery and fruits."
+    },
+    {
+      "Code": "E905",
+      "Name": "Microcrystalline Paraffin",
+      "Alternative_Name": "-",
+      "Function": "Coating Agent",
+      "Description": "Used as a coating agent."
+    },
+    {
+      "Code": "E907",
+      "Name": "Hydrogenated Polydecene",
+      "Alternative_Name": "-",
+      "Function": "Coating Agent",
+      "Description": "Used as a coating agent."
+    },
+    {
+      "Code": "E910",
+      "Name": "L-Cysteine",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used to improve dough processing in baked goods."
+    },
+    {
+      "Code": "E913",
+      "Name": "Lanolin",
+      "Alternative_Name": "Wool Fat",
+      "Function": "Coating Agent",
+      "Description": "Used as a coating agent."
+    },
+    {
+      "Code": "E920",
+      "Name": "L-Cysteine Hydrochloride",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used to improve dough processing in baked goods."
+    },
+    {
+      "Code": "E921",
+      "Name": "L-Cysteine Monohydrochloride",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used to improve dough processing in baked goods."
+    },
+    {
+      "Code": "E931",
+      "Name": "Nitrogen",
+      "Alternative_Name": "-",
+      "Function": "Packaging Gas",
+      "Description": "Used as a packaging gas."
+    },
+    {
+      "Code": "E932",
+      "Name": "Argon",
+      "Alternative_Name": "-",
+      "Function": "Packaging Gas",
+      "Description": "Used as a packaging gas."
+    },
+    {
+      "Code": "E950",
+      "Name": "Acesulfame Potassium",
+      "Alternative_Name": "Calorie-Free Sweetener",
+      "Function": "Sweetener",
+      "Description": "Used as a calorie-free sweetener."
+    },
+    {
+      "Code": "E951",
+      "Name": "Aspartame",
+      "Alternative_Name": "Calorie-Free Sweetener",
+      "Function": "Sweetener",
+      "Description": "Used as a calorie-free sweetener."
+    },
+    {
+      "Code": "E952",
+      "Name": "Cyclamic Acid and Salts",
+      "Alternative_Name": "Calorie-Free Sweetener",
+      "Function": "Sweetener",
+      "Description": "Used as a calorie-free sweetener."
+    },
+    {
+      "Code": "E954",
+      "Name": "Saccharin and Salts",
+      "Alternative_Name": "Calorie-Free Sweetener",
+      "Function": "Sweetener",
+      "Description": "Used as a calorie-free sweetener."
+    },
+    {
+      "Code": "E957",
+      "Name": "Thaumatin",
+      "Alternative_Name": "Natural Sweetener",
+      "Function": "Sweetener",
+      "Description": "Used as a natural sweetener and flavor enhancer."
+    },
+    {
+      "Code": "E965",
+      "Name": "Maltitol and Maltitol Syrup",
+      "Alternative_Name": "Sugar Alcohols",
+      "Function": "Sweetener",
+      "Description": "Used as a sugar substitute."
+    },
+    {
+      "Code": "E966",
+      "Name": "Lactitol",
+      "Alternative_Name": "Sugar Alcohols",
+      "Function": "Sweetener",
+      "Description": "Used as a sugar substitute."
+    },
+    {
+      "Code": "E967",
+      "Name": "Xylitol",
+      "Alternative_Name": "Sugar Alcohols",
+      "Function": "Sweetener",
+      "Description": "Used as a sugar substitute."
+    },
+    {
+      "Code": "E999",
+      "Name": "Quillaia Extract",
+      "Alternative_Name": "Foaming Agent",
+      "Function": "Foaming Agent",
+      "Description": "Used as a foaming agent."
+    },
+    {
+      "Code": "E1100",
+      "Name": "Amylase Enzyme",
+      "Alternative_Name": "-",
+      "Function": "Enzyme",
+      "Description": "Used to improve dough processing in baked goods."
+    },
+    {
+      "Code": "E1200",
+      "Name": "Polydextrose",
+      "Alternative_Name": "-",
+      "Function": "Bulking Agent",
+      "Description": "Used as a bulking agent and fiber source."
+    },
+    {
+      "Code": "E1201",
+      "Name": "Polyvinylpyrrolidone",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and coating agent."
+    },
+    {
+      "Code": "E1202",
+      "Name": "Polyvinylpyrrolidone Copolymer",
+      "Alternative_Name": "-",
+      "Function": "Stabilizer",
+      "Description": "Used as a stabilizer and coating agent."
+    },
+    {
+      "Code": "E1400",
+      "Name": "Modified Starch",
+      "Alternative_Name": "-",
+      "Function": "Thickener",
+      "Description": "Used as a thickener and stabilizer."
+    },
+    {
+      "Code": "E1450",
+      "Name": "Starch Sodium Octenyl Succinate",
+      "Alternative_Name": "-",
+      "Function": "Emulsifier",
+      "Description": "Used as an emulsifier and stabilizer."
+    },
+    {
+      "Code": "E924",
+      "Name": "Potassium Bromate",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used to improve dough processing in baked goods."
+    },
+    {
+      "Code": "E925",
+      "Name": "Chlorine",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used as a bleaching agent in baked goods."
+    },
+    {
+      "Code": "E926",
+      "Name": "Chlorine Dioxide",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used as a bleaching agent in baked goods."
+    },
+    {
+      "Code": "E927",
+      "Name": "Azodicarbonamide",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used to improve dough processing in baked goods."
+    },
+    {
+      "Code": "E928",
+      "Name": "Benzoyl Peroxide",
+      "Alternative_Name": "-",
+      "Function": "Flour Treatment Agent",
+      "Description": "Used as a bleaching agent in baked goods."
+    },
+    {
+      "Code": "E1510",
+      "Name": "Ethanol",
+      "Alternative_Name": "Alcohol",
+      "Function": "Solvent",
+      "Description": "Used as a solvent and carrier."
+    },
+    {
+      "Code": "E1517",
+      "Name": "Glycerol Diester",
+      "Alternative_Name": "-",
+      "Function": "Solvent",
+      "Description": "Used as a solvent and carrier."
+    },
+    {
+      "Code": "E1518",
+      "Name": "Triacetin",
+      "Alternative_Name": "-",
+      "Function": "Solvent",
+      "Description": "Used as a solvent and carrier."
+    },
+    {
+      "Code": "E1520",
+      "Name": "Propylene Glycol",
+      "Alternative_Name": "Humectant",
+      "Function": "Solvent",
+      "Description": "Used as a solvent and humectant."
+    }
+  ]
+}

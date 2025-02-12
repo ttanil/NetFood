@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">NetFood</string>
+
+    <string name="long_text">
+        1. Uygulama Hakkında\n
+        Bu uygulama, paketli gıda ürünlerinin içindekiler kısmında yer alan bileşenleri analiz ederek, özellikle E kodlu katkı maddelerinin sağlık açısından durumunu değerlendirmek amacıyla geliştirilmiştir. Analizler, World Open Food Facts, USDA (United States Department of Agriculture) ve Research of Halal Consumption gibi güvenilir kaynaklardan alınan verilere dayanmaktadır. Uygulama, kullanıcıların bilinçli gıda tüketimi yapmalarına yardımcı olmayı hedeflemektedir.\n\n
+        2. Verilerin Doğruluğu ve Güncelliği\n
+        Uygulamada kullanılan bilgiler, yukarıda belirtilen kaynaklardan alınmış olup, bu bilgilerin doğruluğu ve güncelliği için azami özen gösterilmiştir. Ancak, gıda üreticileri zaman zaman ürün içeriklerini değiştirebilir ve bu değişiklikler kaynaklarda hemen güncellenmeyebilir. Bu nedenle, uygulama tarafından sağlanan bilgilerin her zaman tam ve doğru olduğunu garanti edemeyiz. Kullanıcıların, ürün ambalajında yer alan bilgileri dikkatlice incelemesi ve gerektiğinde üreticiyle iletişime geçmesi önerilir.\n\n
+        3. Sağlık ve Beslenme Tavsiyesi\n
+        Bu uygulama, yalnızca bilgilendirme amaçlıdır ve herhangi bir tıbbi, sağlık veya beslenme tavsiyesi sağlamaz. Uygulama tarafından sağlanan bilgiler, bir sağlık uzmanının veya diyetisyenin önerilerinin yerine geçmez. Sağlık durumunuzla ilgili herhangi bir endişeniz varsa, lütfen bir sağlık uzmanına danışın.\n\n
+        4. Yasal Sorumluluk Reddi\n
+        Uygulama, kullanıcıların gıda tüketimiyle ilgili kararlarından veya bu kararların sonuçlarından sorumlu değildir. Uygulama tarafından sağlanan bilgiler, yalnızca rehberlik amacı taşır ve kullanıcıların kendi değerlendirmelerini yapmaları beklenir. Uygulama geliştiricileri, bu bilgilerin kullanımından doğabilecek herhangi bir doğrudan veya dolaylı zarardan sorumlu tutulamaz.\n\n
+        5. Helal Tüketim ve Dini Uygunluk\n
+        Uygulama, helal tüketimle ilgili analizlerde Research of Halal Consumption gibi kaynaklardan alınan verilere dayanmaktadır. Ancak, helal uygunluk değerlendirmesi, bireysel dini inançlara ve yorumlara göre değişiklik gösterebilir. Bu nedenle, kullanıcıların kendi dini otoritelerine danışmaları önerilir.\n\n
+        6. Veri Gizliliği ve Güvenlik\n
+        Uygulama, kullanıcıların gizliliğine önem verir ve kişisel verilerin korunması için gerekli önlemleri alır. Uygulama, yalnızca analiz için gerekli olan bilgileri işler ve bu bilgiler üçüncü taraflarla paylaşılmaz. Daha fazla bilgi için Gizlilik Politikası sayfamızı inceleyebilirsiniz.\n\n
+        7. Kullanıcı Sorumluluğu\n
+        Kullanıcılar, uygulamayı kullanırken sağlanan bilgilerin yalnızca rehberlik amacı taşıdığını ve nihai kararın kendilerine ait olduğunu kabul eder. Uygulama, kullanıcıların bilinçli tüketim yapmalarına yardımcı olmayı amaçlasa da, kullanıcıların kendi araştırmalarını yapmaları ve gerektiğinde uzman görüşü almaları önerilir.\n\n
+        8. Kaynaklar ve Referanslar\n
+        Uygulama, aşağıdaki kaynaklardan alınan verilere dayanmaktadır:\n
+        - World Open Food Facts\n
+        - USDA (United States Department of Agriculture)\n
+        - Research of Halal Consumption\n
+        - European Food Safety Authority (EFSA)\n
+        - Food Additives Database\n
+        - Codex Alimentarius\n
+        - Open Food Facts API\n\n
+        Bu kaynaklar, gıda içerikleri ve katkı maddeleri hakkında güvenilir bilgiler sunmaktadır. Ancak, bu kaynakların sağladığı bilgilerin doğruluğu ve güncelliği üzerinde tam kontrolümüz bulunmamaktadır.\n\n
+        9. İletişim\n
+        Uygulama ile ilgili sorularınız, önerileriniz veya geri bildirimleriniz için bizimle iletişime geçebilirsiniz:\n
+        E-posta: tahsintanil@gmail.com\n
+    </string>
+</resources>
